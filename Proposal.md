@@ -72,47 +72,46 @@ Liling Tan
 
 ## Programme Committee (Hopeful list)
 
-Steven Bird
-Ines Montani
-Chris Manning
-Delip Rao
-Yoav Goldberg
-Philip Koehn
-Hieu Hoang
-Kenneth Heathfield
-Chris Dyer
-Matt Post
-Spence Green
-Masato Hagiwara
-Graham Neubig
-Jorg Tiedmann
-Torsten Zesch
-Marcos Zampieri
-Radim Řehůřek
-Nathan Schneider
-François Chollet
-Francis Bond
-Andreas Muller
-Lucy Park
-Paul Boersma 
-Daniel Povey
-David Weenink  
-Grzegorz Chrupała
-Maarten van Gompel
-Pontus Stenetorp (BRAT)
-Martin Andrews
-Marcin Junczys-Dowmunt
-Hal Daumé III
-Dmitrijs Milajevs
-Tomas Mikolov
-Josef van Genabith
-Jon Dehdari
-Preslav Nakov
-David Jurgen
-Roberto Navigli
-Lucia Specia
-Tim Baldwin
-Joel Tetrault 
+ - Steven Bird
+ - Ines Montani
+ - Chris Manning
+ - Delip Rao
+ - Yoav Goldberg
+ - Philip Koehn
+ - Hieu Hoang
+ - Kenneth Heathfield
+ - Chris Dyer
+ - Matt Post
+ - Spence Green
+ - Masato Hagiwara
+ - Graham Neubig
+ - Jorg Tiedmann
+ - Torsten Zesch
+ - Marcos Zampieri
+ - Radim Řehůřek
+ - Nathan Schneider
+ - François Chollet
+ - Francis Bond
+ - Andreas Muller
+ - Paul Boersma 
+ - Daniel Povey
+ - David Weenink  
+ - Grzegorz Chrupała
+ - Maarten van Gompel
+ - Pontus Stenetorp (BRAT)
+ - Martin Andrews
+ - Marcin Junczys-Dowmunt
+ - Hal Daumé III
+ - Dmitrijs Milajevs
+ - Tomas Mikolov
+ - Josef van Genabith
+ - Jon Dehdari
+ - Preslav Nakov
+ - David Jurgen
+ - Roberto Navigli
+ - Lucia Specia
+ - Tim Baldwin
+ - Joel Tetrault 
 
 
 
