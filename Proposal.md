@@ -91,35 +91,37 @@ To promote closer interaction, all accepted publications will present their work
  - Jorg Tiedemann
  - Torsten Zesch
  - Marcos Zampieri
- - Radim Řehůřek
  - Nathan Schneider
  - François Chollet
- - Francis Bond
- - Andreas Muller
- - Paul Boersma 
- - Daniel Povey
- - David Weenink  
- - Grzegorz Chrupała
- - Maarten van Gompel
- - Pontus Stenetorp (BRAT)
  - Martin Andrews
- - Marcin Junczys-Dowmunt
- - Tomas Mikolov
- - Dmitrijs Milajevs
+ - Francis Bond
+ - Jason Baldridge
  - Tim Baldwin
+ - Paul Boersma (Praat)
  - Denny Britz
  - Kyunghyun Cho
+ - Grzegorz Chrupała
  - Hal Daumé III
  - Leon Derczynski
  - Jon Dehdari
+ - Marcin Junczys-Dowmunt
  - David Jurgen
  - MinYen Kam 
+ - Tomas Mikolov
+ - Dmitrijs Milajevs
+ - Andreas Muller
  - Preslav Nakov
  - Roberto Navigli
+ - Daniel Povey (Kaldi)
  - David Przybilla
+ - Radim Řehůřek
  - Vered Shwartz
  - Lucia Specia
+ - Pontus Stenetorp (BRAT)
  - Rachael Tatman
  - Joel Tetrault 
  - Josef van Genabith
+ - Maarten van Gompel
+ - David Weenink  (Praat) 
+
 
