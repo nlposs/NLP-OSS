@@ -76,9 +76,11 @@ To promote closer interaction, all accepted publications will present their work
 ## Programme Committee (Hopeful list)
 
  - Martin Andrews
+ - ~Emily Bender~ (COLING PC co-chair)
  - Francis Bond
  - Jason Baldridge
- - Tim Baldwin
+ - ~Tim Baldwin~ (COLING workshop chair)
+ - Fred Blain
  - Steven Bird
  - Paul Boersma (Praat)
  - Denny Britz
@@ -86,13 +88,12 @@ To promote closer interaction, all accepted publications will present their work
  - François Chollet
  - Grzegorz Chrupała
  - Hal Daumé III
- - Leon Derczynski
+ - ~Leon Derczynski~ (COLING PC co-chair)
  - Jon Dehdari
  - Chris Dyer
  - Yoav Goldberg
  - Spence Green
  - Paul Groth
- - Masato Hagiwara
  - Kenneth Heathfield
  - Hieu Hoang
  - Matthew Honnibal
