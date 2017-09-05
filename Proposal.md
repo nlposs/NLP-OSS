@@ -60,13 +60,15 @@ We invite topics relating to NLP-OSS under broadly categorized into (i) software
 
 To promote closer interaction, all accepted publications will present their work in the poster format and be required to give a 1 slide (90 seconds?) introduction of their work. For the rest of the workshop, invited talks will be given by maintainers of prominent NLP OSS and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
 
-Expected Crowd Size: 50 
+## Expected Crowd Size: 
+
+50-ish? 
 
 
 ## Organizers
 
-Lucy Park
-Liling Tan
+[Lucy Park](https://github.com/e9t), Naver Labs
+[Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
 
 
 
