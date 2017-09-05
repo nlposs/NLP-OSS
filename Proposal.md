@@ -97,7 +97,8 @@ To promote closer interaction, all accepted publications will present their work
  - Matthew Honnibal
  - Marcin Junczys-Dowmunt
  - David Jurgen
- - MinYen Kam 
+ - MinYen Kam
+ - Andreas Kirkedal
  - Philip Koehn
  - Chris Manning
  - Tomas Mikolov
@@ -113,6 +114,7 @@ To promote closer interaction, all accepted publications will present their work
  - Delip Rao
  - Radim Řehůřek
  - Nathan Schneider 
+ - Nikolay Shmyrev (cmu-sphinx)
  - Vered Shwartz
  - Lucia Specia
  - Pontus Stenetorp (BRAT)
@@ -125,6 +127,8 @@ To promote closer interaction, all accepted publications will present their work
  - David Weenink  (Praat) 
  - Marcos Zampieri
  - Torsten Zesch
+ 
+
 
  
 
