@@ -67,8 +67,8 @@ To promote closer interaction, all accepted publications will present their work
 
 ## Organizers
 
-[Lucy Park](https://github.com/e9t), Naver Labs
-[Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
+ - [Lucy Park](https://github.com/e9t), Naver Labs
+ - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
 
 
 
