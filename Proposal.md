@@ -73,6 +73,7 @@ Liling Tan
 ## Programme Committee (Hopeful list)
 
  - Steven Bird
+ - Matthew Honnibal
  - Ines Montani
  - Chris Manning
  - Delip Rao
@@ -85,7 +86,7 @@ Liling Tan
  - Spence Green
  - Masato Hagiwara
  - Graham Neubig
- - Jorg Tiedmann
+ - Jorg Tiedemann
  - Torsten Zesch
  - Marcos Zampieri
  - Radim Řehůřek
@@ -112,7 +113,6 @@ Liling Tan
  - Lucia Specia
  - Tim Baldwin
  - Joel Tetrault 
-
 
 
 
