@@ -7,5 +7,6 @@ The ACL/COLING/EMNLP/NAACL proposal is at https://github.com/alvations/NLP-OSS/b
 Let's use the issue tracker to do the following:
 
  - confirm the people in the program committee
- - catch suggestions/comments and grammar errors in the proposal
+ - track progress of the workshop website
+ - catch suggestions/comments and grammar errors in the proposal (please create new issues, when appropriate)
  
