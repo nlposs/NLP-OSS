@@ -124,6 +124,7 @@ To promote closer interaction, all accepted publications will present their work
  - Jorg Tiedemann
  - Josef van Genabith
  - Maarten van Gompel
+ - Emiel van Miltenburg
  - David Weenink  (Praat) 
  - Marcos Zampieri
  - Torsten Zesch
