@@ -115,6 +115,7 @@ To promote closer interaction, all accepted publications will present their work
  - David Przybilla
  - Delip Rao
  - Radim Řehůřek
+ - Elijah Rippeth
  - Nathan Schneider 
  - Nikolay Shmyrev (cmu-sphinx)
  - Vered Shwartz
