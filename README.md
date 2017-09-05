@@ -1,4 +1,4 @@
-# NLP-OSS
+# Workshop for NLP Open Source Software (NLP-OSS)
 
 This is the Github page where we keep track of the developments of NLP-OSS workshop. 
 
