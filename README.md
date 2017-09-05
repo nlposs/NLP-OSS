@@ -9,4 +9,5 @@ Let's use the issue tracker to do the following:
  - confirm the people in the program committee
  - track progress of the workshop website
  - catch suggestions/comments and grammar errors in the proposal (please create new issues, when appropriate)
+   - the proposal is unpolished and everything is open to changes =)
  
