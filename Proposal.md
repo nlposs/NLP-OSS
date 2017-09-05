@@ -104,19 +104,22 @@ To promote closer interaction, all accepted publications will present their work
  - Pontus Stenetorp (BRAT)
  - Martin Andrews
  - Marcin Junczys-Dowmunt
- - Hal Daumé III
- - Dmitrijs Milajevs
  - Tomas Mikolov
- - Josef van Genabith
- - Jon Dehdari
- - Preslav Nakov
- - David Jurgen
- - Roberto Navigli
- - Lucia Specia
+ - Dmitrijs Milajevs
  - Tim Baldwin
- - Joel Tetrault 
+ - Denny Britz
  - Kyunghyun Cho
- - Rachael Tatman
+ - Hal Daumé III
+ - Leon Derczynski
+ - Jon Dehdari
+ - David Jurgen
+ - MinYen Kam 
+ - Preslav Nakov
+ - Roberto Navigli
  - David Przybilla
-
+ - Vered Shwartz
+ - Lucia Specia
+ - Rachael Tatman
+ - Joel Tetrault 
+ - Josef van Genabith
 
