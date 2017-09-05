@@ -74,54 +74,59 @@ To promote closer interaction, all accepted publications will present their work
 
 ## Programme Committee (Hopeful list)
 
- - Steven Bird
- - Matthew Honnibal
- - Ines Montani
- - Chris Manning
- - Delip Rao
- - Yoav Goldberg
- - Philip Koehn
- - Hieu Hoang
- - Kenneth Heathfield
- - Chris Dyer
- - Matt Post
- - Spence Green
- - Masato Hagiwara
- - Graham Neubig
- - Jorg Tiedemann
- - Torsten Zesch
- - Marcos Zampieri
- - Nathan Schneider
- - François Chollet
  - Martin Andrews
  - Francis Bond
  - Jason Baldridge
  - Tim Baldwin
+ - Steven Bird
  - Paul Boersma (Praat)
  - Denny Britz
  - Kyunghyun Cho
+ - François Chollet
  - Grzegorz Chrupała
  - Hal Daumé III
  - Leon Derczynski
  - Jon Dehdari
+ - Chris Dyer
+ - Yoav Goldberg
+ - Spence Green
+ - Paul Groth
+ - Masato Hagiwara
+ - Kenneth Heathfield
+ - Hieu Hoang
+ - Matthew Honnibal
  - Marcin Junczys-Dowmunt
  - David Jurgen
  - MinYen Kam 
+ - Philip Koehn
+ - Chris Manning
  - Tomas Mikolov
  - Dmitrijs Milajevs
+ - Ines Montani
  - Andreas Muller
  - Preslav Nakov
  - Roberto Navigli
+ - Graham Neubig
  - Daniel Povey (Kaldi)
+ - Matt Post
  - David Przybilla
+ - Delip Rao
  - Radim Řehůřek
+ - Nathan Schneider 
  - Vered Shwartz
  - Lucia Specia
  - Pontus Stenetorp (BRAT)
+ - Dario Taraborelli
  - Rachael Tatman
  - Joel Tetrault 
+ - Jorg Tiedemann
  - Josef van Genabith
  - Maarten van Gompel
  - David Weenink  (Praat) 
+ - Marcos Zampieri
+ - Torsten Zesch
+
+ 
+
 
 
