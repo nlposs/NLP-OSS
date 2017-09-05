@@ -115,6 +115,8 @@ To promote closer interaction, all accepted publications will present their work
  - Lucia Specia
  - Tim Baldwin
  - Joel Tetrault 
-
+ - Kyunghyun Cho
+ - Rachael Tatman
+ - David Przybilla
 
 
