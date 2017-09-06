@@ -69,6 +69,7 @@ To promote closer interaction, all accepted publications will present their work
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
+ - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), Queen Mary University of London
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
 
  
@@ -83,7 +84,7 @@ To promote closer interaction, all accepted publications will present their work
  - James Bradbury
  - Denny Britz
  - Marine Carpuat 
- - Kyunghyun Cho
+ - Kyunghyun Chod
  - François Chollet
  - Grzegorz Chrupała
  - Hal Daumé III
@@ -94,16 +95,16 @@ To promote closer interaction, all accepted publications will present their work
  - Paul Groth
  - Kenneth Heathfield
  - Hieu Hoang
- - Matthew Honnibal
+ - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
  - David Jurgen
  - MinYen Kam
+ - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
  - Philip Koehn
  - Chris Manning
  - Tomas Mikolov
- - Dmitrijs Milajevs
- - Ines Montani
+ - [Ines Montani](https://ines.io), Explosion AI
  - Andreas Muller
  - Preslav Nakov
  - Roberto Navigli
