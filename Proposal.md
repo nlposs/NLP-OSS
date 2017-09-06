@@ -80,7 +80,9 @@ To promote closer interaction, all accepted publications will present their work
  - Fred Blain
  - Steven Bird
  - Paul Boersma (Praat)
+ - James Bradbury
  - Denny Britz
+ - Marine Carpuat 
  - Kyunghyun Cho
  - François Chollet
  - Grzegorz Chrupała
