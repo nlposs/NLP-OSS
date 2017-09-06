@@ -109,6 +109,7 @@ To promote closer interaction, all accepted publications will present their work
  - Preslav Nakov
  - Roberto Navigli
  - Graham Neubig
+ - [Vlad Niculae](http://vene.ro), Cornell CIS
  - Daniel Povey (Kaldi)
  - Matt Post
  - David Przybilla
@@ -128,7 +129,7 @@ To promote closer interaction, all accepted publications will present their work
  - Maarten van Gompel
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - David Weenink  (Praat) 
- - Marcos Zampieri
+ - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - Torsten Zesch
  
  
