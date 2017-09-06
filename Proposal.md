@@ -117,7 +117,7 @@ To promote closer interaction, all accepted publications will present their work
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Nathan Schneider 
  - Nikolay Shmyrev (cmu-sphinx)
- - Vered Shwartz
+ - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - Lucia Specia
  - Pontus Stenetorp (BRAT)
  - Dario Taraborelli
