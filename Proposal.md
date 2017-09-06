@@ -81,7 +81,7 @@ To promote closer interaction, all accepted publications will present their work
  - Fred Blain
  - Steven Bird
  - Paul Boersma (Praat)
- - James Bradbury
+ - [James Bradbury](https://www.crunchbase.com/person/james-bradbury), SalesForce 
  - Denny Britz
  - Marine Carpuat 
  - Kyunghyun Chod
