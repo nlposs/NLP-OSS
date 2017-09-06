@@ -81,10 +81,10 @@ To promote closer interaction, all accepted publications will present their work
  - Fred Blain
  - Steven Bird
  - Paul Boersma (Praat)
- - [James Bradbury](https://www.crunchbase.com/person/james-bradbury), SalesForce 
+ - James Bradbury, Salesforce Research
  - Denny Britz
  - Marine Carpuat 
- - Kyunghyun Chod
+ - Kyunghyun Cho
  - François Chollet
  - Grzegorz Chrupała
  - Hal Daumé III
@@ -101,7 +101,7 @@ To promote closer interaction, all accepted publications will present their work
  - MinYen Kam
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
- - Philip Koehn
+ - Philipp Koehn
  - Chris Manning
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
