@@ -71,15 +71,12 @@ To promote closer interaction, all accepted publications will present their work
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
 
-
-
+ 
 ## Programme Committee (Hopeful list)
 
  - Martin Andrews
- - ~Emily Bender~ (COLING PC co-chair)
  - Francis Bond
- - Jason Baldridge
- - ~Tim Baldwin~ (COLING workshop chair)
+ - Jason Baldridge 
  - Fred Blain
  - Steven Bird
  - Paul Boersma (Praat)
@@ -88,7 +85,6 @@ To promote closer interaction, all accepted publications will present their work
  - François Chollet
  - Grzegorz Chrupała
  - Hal Daumé III
- - ~Leon Derczynski~ (COLING PC co-chair)
  - Jon Dehdari
  - Chris Dyer
  - Yoav Goldberg
@@ -115,7 +111,7 @@ To promote closer interaction, all accepted publications will present their work
  - David Przybilla
  - Delip Rao
  - Radim Řehůřek
- - Elijah Rippeth
+ - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Nathan Schneider 
  - Nikolay Shmyrev (cmu-sphinx)
  - Vered Shwartz
@@ -127,12 +123,22 @@ To promote closer interaction, all accepted publications will present their work
  - Jorg Tiedemann
  - Josef van Genabith
  - Maarten van Gompel
- - Emiel van Miltenburg
+ - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - David Weenink  (Praat) 
  - Marcos Zampieri
  - Torsten Zesch
  
+ 
+<!-- 
+Verbal Endorsements
+====
 
+Exclude to avoid conflict of interest 
+
+ - Tim Baldwin (COLING workshop chair) https://twitter.com/eltimster/status/904928371603320832 
+ - Emily Bender (COLING PC co-chair) https://twitter.com/emilymbender/status/904870675722027008 
+ - Leon Derczynski (COLING PC co-chair) 
+-->
 
  
 
