@@ -11,11 +11,11 @@ machine learning / artificial intelligence frameworks with functionalities focus
 
 There are many workshops focusing open language resource/annotation creation and curation (e.g. BUCC, WAC, LOD, GWN, LAW). Moreover we have the flagship LREC conference dedicated to language resource. But the engineering aspects of the NLP OSS is overlooked and under-discussed within the community. To our best knowledge, this is first workshop proposal that focuses more on the building aspect of NLP and lesser so on scientific novelty or state-of-art development.
 
-More often than not, NLP OSS developers/users interact in silos communities within the ecologies of their respective projects. In the earlier days of NLP, linguistic softwares were often monolithic and the learning curve to install, use and extend the tools were steep and frustrating. 
+More often than not, NLP OSS developers/users interact in silos communities within the ecologies of their respective projects. In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use and extend the tools were steep and frustrating. 
 
 With the advent of cross programming-language support for NLP and high-level languages like Python, R, Ruby and Julia, we begin to see the synergies between cross-community support across NLP OSS. 
 
-One classic example is NLTK’s support for Stanford NLP tools which provides a Pythonic interface to the Stanford tools written in Java. And more recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that related to cross OSS interfaces in NLTK. The developers has also interacted across their respective code repositories to raise issues and give code reviews (c.f. https://github.com/nltk/nltk/pull/1249 ).  Beyond the diamond sharpening diamond effect of cross-OSS collaborations, the result of the successful interface between the tools opens door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
+One classic example is NLTK’s support for Stanford NLP tools which provides a Pythonic interface to the Stanford tools written in Java. And more recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that related to cross OSS interfaces in NLTK. The developers has also interacted across their respective code repositories to raise issues and give code reviews (c.f. https://github.com/nltk/nltk/pull/1249 ).  Beyond the diamond sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
 
 Another example of precious OSS knowledge comes from SpaCy developer, where Montani (2017, https://ines.io/blog/spacy-commercial-open-source-nlp) shared her thoughts and challenges of commercial NLP OSS.  
 
@@ -69,7 +69,7 @@ To promote closer interaction, all accepted publications will present their work
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
- - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), Queen Mary University of London
+ - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology 
 
  
