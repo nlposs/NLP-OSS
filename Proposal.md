@@ -87,9 +87,11 @@ To promote closer interaction, all accepted publications will present their work
  - Kyunghyun Cho
  - François Chollet
  - Grzegorz Chrupała
+ - Dan Flickinger
  - Hal Daumé III
  - Jon Dehdari
  - Chris Dyer
+ - Ulrich Germann
  - Yoav Goldberg
  - Spence Green
  - Paul Groth
@@ -102,7 +104,7 @@ To promote closer interaction, all accepted publications will present their work
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
  - Philipp Koehn
- - Chris Manning
+ - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
  - Andreas Muller
