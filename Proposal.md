@@ -89,7 +89,7 @@ To promote closer interaction, all accepted publications will present their work
  - Grzegorz Chrupała
  - Dan Flickinger
  - Hal Daumé III
- - Jon Dehdari
+ - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
  - Ulrich Germann
  - Yoav Goldberg
