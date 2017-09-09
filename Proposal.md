@@ -95,6 +95,7 @@ To promote closer interaction, all accepted publications will present their work
  - Yoav Goldberg
  - Spence Green
  - Paul Groth
+ - Joel Grus
  - Kenneth Heathfield
  - Hieu Hoang
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
