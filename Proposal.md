@@ -75,7 +75,7 @@ To promote closer interaction, all accepted publications will present their work
  
 ## Programme Committee (Hopeful list)
 
- - Martin Andrews
+ - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Francis Bond
  - Jason Baldridge 
  - Fred Blain
