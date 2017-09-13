@@ -122,7 +122,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Matt Post
  - David Przybilla
  - Delip Rao
- - Radim Řehůřek
+ - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
