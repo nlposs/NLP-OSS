@@ -76,6 +76,8 @@ To promote closer interaction, all accepted publications will be presented in th
 ## Invited Speakers (Confirmed)
 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
+- [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI
+
 
 ## Programme Committee (Hopeful list)
 
