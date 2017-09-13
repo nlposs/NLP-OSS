@@ -115,7 +115,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Andreas Muller
  - Preslav Nakov
  - Roberto Navigli
- - Graham Neubig
+ - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - Daniel Povey (Kaldi)
  - Matt Post
