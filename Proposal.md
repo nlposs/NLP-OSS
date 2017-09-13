@@ -98,7 +98,6 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
  - Ulrich Germann
- - Yoav Goldberg
  - Spence Green
  - Paul Groth
  - Joel Grus
@@ -149,6 +148,8 @@ Verbal Endorsements
 Exclude to avoid conflict of interest
 
  - Tim Baldwin (COLING workshop chair) https://twitter.com/eltimster/status/904928371603320832
+ - Yoav Goldberg (COLING workshop co-chair)
  - Emily Bender (COLING PC co-chair) https://twitter.com/emilymbender/status/904870675722027008
  - Leon Derczynski (COLING PC co-chair)
+
 -->
