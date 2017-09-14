@@ -97,12 +97,15 @@ To promote closer interaction, all accepted publications will be presented in th
  - Hal Daumé III
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
+ - Christian Federmann
  - Ulrich Germann
+ - João Graça
  - Spence Green
  - Paul Groth
  - Joel Grus
  - Kenneth Heathfield
  - Hieu Hoang
+ - Chris Hokamp
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
  - David Jurgen
@@ -124,6 +127,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Delip Rao
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - Rico Sennrich
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
