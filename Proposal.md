@@ -88,7 +88,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Steven Bird
  - Paul Boersma (Praat)
  - James Bradbury, Salesforce Research
- - Denny Britz
+ - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - Marine Carpuat
  - Kyunghyun Cho
  - François Chollet
