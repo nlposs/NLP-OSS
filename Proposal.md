@@ -97,7 +97,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Hal Daumé III
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
- - Christian Federmann
+ - [Christian Federmann](http://www.cfedermann.de), Microsoft Research 
  - Ulrich Germann
  - João Graça
  - Spence Green
