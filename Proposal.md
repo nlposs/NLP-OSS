@@ -123,7 +123,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - Daniel Povey (Kaldi)
  - Matt Post
- - David Przybilla
+ - [David Przybilla](http://alejandro.pictures), Idio
  - Delip Rao
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
