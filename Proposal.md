@@ -124,7 +124,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Daniel Povey (Kaldi)
  - Matt Post
  - [David Przybilla](http://alejandro.pictures), Idio
- - Delip Rao
+ - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Rico Sennrich
