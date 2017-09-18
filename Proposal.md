@@ -69,7 +69,10 @@ To promote closer interaction, all accepted publications will be presented in th
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
- - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London
+ - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. dimazest@gmail.com
+ 
+    Dmitrijs is a guest researcher at NIST working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collacated hackathon.
+ 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
 
