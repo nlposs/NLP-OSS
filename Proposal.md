@@ -141,6 +141,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Josef van Genabith
  - Maarten van Gompel
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
+ - Gaël Varoquaux
  - David Weenink  (Praat)
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - Torsten Zesch
