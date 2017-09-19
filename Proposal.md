@@ -111,7 +111,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - David Jurgen
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
- - Philipp Koehn
+ - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
