@@ -118,6 +118,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Andreas Müller](http://amueller.github.io), Columbia University 
  - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
+ - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - Daniel Povey (Kaldi)
  - Matt Post
  - [David Przybilla](http://alejandro.pictures), Idio
