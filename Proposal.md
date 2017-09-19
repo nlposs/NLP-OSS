@@ -109,7 +109,6 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
  - David Jurgen
- - MinYen Kam
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
  - Philipp Koehn
@@ -132,7 +131,6 @@ To promote closer interaction, all accepted publications will be presented in th
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
- - Lucia Specia
  - Pontus Stenetorp (BRAT)
  - Dario Taraborelli
  - Rachael Tatman
