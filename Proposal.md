@@ -126,7 +126,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Rico Sennrich
- - Dan Simonson
+ - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
