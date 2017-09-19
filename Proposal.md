@@ -116,7 +116,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
- - Andreas Muller
+ - [Andreas Müller](http://amueller.github.io), Columbia University 
  - Preslav Nakov
  - Roberto Navigli
  - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
