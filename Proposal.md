@@ -71,6 +71,8 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
  - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+ 
+      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the Workshop on NLP for Similar Languages, Varieties  and Dialects (VarDial 2014-16) and the DSL shared task. 
 
 
 ## Invited Speakers (Confirmed)
