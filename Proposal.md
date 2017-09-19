@@ -130,7 +130,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
- - Pontus Stenetorp (BRAT)
+ - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London 
  - Dario Taraborelli
  - Rachael Tatman
  - Joel Tetrault
