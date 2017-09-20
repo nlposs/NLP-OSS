@@ -73,10 +73,11 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
 
-## Invited Speakers (Confirmed)
+## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
 - [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI
+- [Joel Nothman](http://joelnothman.com), University of Sydney
 
 
 ## Programme Committee (Hopeful list)
