@@ -88,7 +88,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Francis Bond
  - Jason Baldridge
- - Steven Bethard
+ - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - Steven Bird
  - Paul Boersma (Praat)
