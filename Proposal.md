@@ -98,7 +98,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Hal Daumé III
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
- - [Christian Federmann](http://www.cfedermann.de), Microsoft Research 
+ - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - Ulrich Germann
  - João Graça
  - Spence Green
@@ -113,10 +113,11 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
+ - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
- - [Andreas Müller](http://amueller.github.io), Columbia University 
+ - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
@@ -131,7 +132,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
- - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London 
+ - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
  - Dario Taraborelli
  - Rachael Tatman
  - Joel Tetrault
