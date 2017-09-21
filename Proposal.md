@@ -138,7 +138,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
  - Dario Taraborelli
- - Rachael Tatman
+ - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - Joel Tetrault
  - Jorg Tiedemann
  - Josef van Genabith
