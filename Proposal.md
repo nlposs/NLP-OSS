@@ -68,8 +68,8 @@ To promote closer interaction, all accepted publications will be presented in th
 ## Organizers
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
- 
-    Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
+     
+     Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
      
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
 
