@@ -107,7 +107,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - João Graça
  - Spence Green
  - Paul Groth
- - Joel Grus
+ - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
  - Kenneth Heathfield
  - Chris Hokamp
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
