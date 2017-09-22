@@ -109,7 +109,6 @@ To promote closer interaction, all accepted publications will be presented in th
  - Paul Groth
  - Joel Grus
  - Kenneth Heathfield
- - Hieu Hoang
  - Chris Hokamp
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
