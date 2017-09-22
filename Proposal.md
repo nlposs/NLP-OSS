@@ -68,18 +68,27 @@ To promote closer interaction, all accepted publications will be presented in th
 ## Organizers
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
+ 
+     Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
+     
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
+
+     Masato Hagiwara is a research scientist / software engineer working at Duolingo. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Before joining Duolingo, he was a lead scientist at Rakuten Institute of Technology in New York. His research interests include Japanese and Chinese language processing, machine translation / transliteration, and language education. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions in Japan on noisy text processing.
+
  - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. dimazest@gmail.com
  
-    Dmitrijs is a guest researcher at National Institute of Standards and Technology (NIST) working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collocated hackathon.
+     Dmitrijs is a guest researcher at National Institute of Standards and Technology (NIST) working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collocated hackathon.
  
- - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+ - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology)
+     
+     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task. 
 
 
-## Invited Speakers (Confirmed)
+## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
 - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
 - [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI
+- [Joel Nothman](http://joelnothman.com), University of Sydney
 
 
 ## Programme Committee (Hopeful list)
@@ -87,6 +96,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Francis Bond
  - Jason Baldridge
+ - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - Steven Bird
  - Paul Boersma (Praat)
@@ -100,30 +110,28 @@ To promote closer interaction, all accepted publications will be presented in th
  - Hal Daumé III
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
- - [Christian Federmann](http://www.cfedermann.de), Microsoft Research 
+ - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - Ulrich Germann
  - João Graça
  - Spence Green
  - Paul Groth
- - Joel Grus
+ - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
  - Kenneth Heathfield
- - Hieu Hoang
  - Chris Hokamp
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
  - David Jurgen
- - MinYen Kam
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - Andreas Kirkedal
- - Philipp Koehn
+ - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
+ - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Tomas Mikolov
  - [Ines Montani](https://ines.io), Explosion AI
- - Andreas Muller
- - Preslav Nakov
- - Roberto Navigli
+ - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
+ - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - Daniel Povey (Kaldi)
  - Matt Post
  - [David Przybilla](http://alejandro.pictures), Idio
@@ -131,14 +139,13 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Rico Sennrich
- - Dan Simonson
+ - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
  - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
- - Lucia Specia
- - Pontus Stenetorp (BRAT)
+ - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
  - Dario Taraborelli
- - Rachael Tatman
+ - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - Joel Tetrault
  - Jorg Tiedemann
  - Josef van Genabith
