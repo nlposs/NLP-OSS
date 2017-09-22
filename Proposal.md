@@ -72,6 +72,10 @@ To promote closer interaction, all accepted publications will be presented in th
      Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
      
  - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
+
+ Masato Hagiwara is a research scientist / software engineer working at Duolingo. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Before joining Duolingo, he was a lead scientist at Rakuten Institute of Technology in New York. His research interests include Japanese and Chinese language processing, machine translation / transliteration, and language education. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions in Japan on noisy text processing.
+
+
  - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
