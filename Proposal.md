@@ -95,7 +95,7 @@ To promote closer interaction, all accepted publications will be presented in th
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Francis Bond
- - Jason Baldridge
+ - [Jason Baldridge](http://www.jasonbaldridge.com/), Google 
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - Steven Bird
@@ -104,12 +104,12 @@ To promote closer interaction, all accepted publications will be presented in th
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - Marine Carpuat
- - Kyunghyun Cho
+ - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - François Chollet
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
  - Dan Flickinger
  - Mary Ellen Foster
- - Hal Daumé III
+ - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
