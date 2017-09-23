@@ -106,7 +106,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Marine Carpuat
  - Kyunghyun Cho
  - François Chollet
- - Grzegorz Chrupała
+ - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
  - Dan Flickinger
  - Mary Ellen Foster
  - Hal Daumé III
