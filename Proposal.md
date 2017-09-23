@@ -100,6 +100,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - Steven Bird
  - Paul Boersma (Praat)
+ - Kalina Bontcheva
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - Marine Carpuat
@@ -107,6 +108,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - François Chollet
  - Grzegorz Chrupała
  - Dan Flickinger
+ - Mary Ellen Foster
  - Hal Daumé III
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
@@ -138,6 +140,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - Abigail See
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
