@@ -107,6 +107,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - François Chollet
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
+ - Isabel Drost-Fromm
  - Dan Flickinger
  - Mary Ellen Foster
  - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
