@@ -140,6 +140,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - Carolina Scarton
  - Abigail See
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
