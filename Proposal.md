@@ -129,6 +129,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
+ - [Diana Maynard](http://www.dcs.shef.ac.uk/~diana/), University of Sheffield
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
