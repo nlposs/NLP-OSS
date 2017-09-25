@@ -136,7 +136,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - Daniel Povey (Kaldi)
- - Matt Post
+ - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
