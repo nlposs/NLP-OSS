@@ -109,7 +109,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
  - Isabel Drost-Fromm
  - Dan Flickinger
- - Mary Ellen Foster
+ - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Chris Dyer
