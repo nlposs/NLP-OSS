@@ -79,7 +79,7 @@ To promote closer interaction, all accepted publications will be presented in th
  
      Dmitrijs is a guest researcher at National Institute of Standards and Technology (NIST) working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collocated hackathon.
  
- - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology)
+ - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
      
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task. 
 
