@@ -120,7 +120,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Paul Groth
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
  - Kenneth Heathfield
- - Chris Hokamp, Dublin City University
+ - [Chris Hokamp](https://github.com/chrishokamp), Aylien Inc.
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - Marcin Junczys-Dowmunt
  - David Jurgen
