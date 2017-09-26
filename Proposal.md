@@ -103,7 +103,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Kalina Bontcheva
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
- - Marine Carpuat
+ - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - François Chollet
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
