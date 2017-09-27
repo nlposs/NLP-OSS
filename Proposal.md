@@ -115,6 +115,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - Chris Dyer
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - Ulrich Germann
+ - Michael Wayne Goodman
  - João Graça
  - Spence Green
  - Paul Groth
