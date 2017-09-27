@@ -94,7 +94,7 @@ To promote closer interaction, all accepted publications will be presented in th
 ## Programme Committee (Hopeful list)
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
- - Francis Bond
+ - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Jason Baldridge](http://www.jasonbaldridge.com/), Google 
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
