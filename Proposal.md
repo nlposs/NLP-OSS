@@ -143,7 +143,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - Carolina Scarton
- - Abigail See
+ - [Abigail See](http://cs.stanford.edu/people/abisee/), Stanford University
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
