@@ -99,33 +99,19 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - Steven Bird
- - Paul Boersma (Praat)
- - Kalina Bontcheva
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
- - François Chollet
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
- - Dan Flickinger
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
- - Chris Dyer
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
- - Ulrich Germann
- - Michael Wayne Goodman
- - João Graça
- - Spence Green
- - Paul Groth
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
- - Kenneth Heathfield
  - [Chris Hokamp](https://github.com/chrishokamp), Aylien Inc.
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
- - Marcin Junczys-Dowmunt
- - David Jurgen
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
- - Andreas Kirkedal
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
@@ -136,31 +122,21 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
- - Daniel Povey (Kaldi)
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
- - Carolina Scarton
  - [Abigail See](http://cs.stanford.edu/people/abisee/), Stanford University
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
- - Nikolay Shmyrev (cmu-sphinx)
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
- - Dario Taraborelli
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
- - Joel Tetrault
- - Jorg Tiedemann
- - Josef van Genabith
- - Maarten van Gompel
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
- - David Weenink  (Praat)
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
- - Torsten Zesch
 
 
 <!--
@@ -174,4 +150,41 @@ Exclude to avoid conflict of interest
  - Emily Bender (COLING PC co-chair) https://twitter.com/emilymbender/status/904870675722027008
  - Leon Derczynski (COLING PC co-chair)
 
+-->
+
+<!--
+Contacted hasn't replied
+
+ - Paul Boersma (Praat)
+ - Kalina Bontcheva
+ - François Chollet
+ - Chris Dyer
+ - Ulrich Germann
+ - Spence Green
+ - Paul Groth
+ - Carolina Scarton
+ - Kenneth Heathfield
+ - Marcin Junczys-Dowmunt 
+ 
+
+# Liling will try contacting
+ - Dan Flickinger
+ - Michael Wayne Goodman
+ - Maarten van Gompel
+ - João Graça
+ - Josef van Genabith
+ 
+ 
+# Hasn't contacted
+ - Andreas Kirkedal
+ - Nikolay Shmyrev (cmu-sphinx)
+ - Dario Taraborelli
+ - Joel Tetrault
+ - Jorg Tiedemann
+ - David Weenink  (Praat)
+ - Torsten Zesch
+ 
+# Replied but no clear answer (worth recontacting)
+
+ - Daniel Povey (Kaldi)
 -->
