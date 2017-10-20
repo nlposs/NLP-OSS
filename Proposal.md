@@ -138,6 +138,7 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - Nathan Schneider
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
+ - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
