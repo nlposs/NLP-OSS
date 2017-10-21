@@ -61,10 +61,12 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
    - Teaching NLP with OSS
    - Avoiding the hammer OSS
 
-
+<!-- 
 ## Workshop Structure
+## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
 
 To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+-->
 
 ## Expected Crowd Size:
 
@@ -160,7 +162,8 @@ Exclude to avoid conflict of interest
 -->
 
 <!--
-Contacted hasn't replied
+
+# Contacted hasn't replied
 
  - Paul Boersma (Praat)
  - Kalina Bontcheva
@@ -175,12 +178,13 @@ Contacted hasn't replied
  
 
 # Liling will try contacting
+ - Josef van Genabith
+ 
+# Newly contacted, hasn't replied (to send follow-up on 23.10.17)
  - Dan Flickinger
  - Michael Wayne Goodman
  - Maarten van Gompel
- - João Graça
- - Josef van Genabith
- 
+ - Nathan Schneider
  
 # Hasn't contacted
  - Andreas Kirkedal
@@ -192,6 +196,6 @@ Contacted hasn't replied
  - Torsten Zesch
  
 # Replied but no clear answer (worth recontacting)
-
  - Daniel Povey (Kaldi)
+ 
 -->
