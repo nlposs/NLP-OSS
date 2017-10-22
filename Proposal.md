@@ -134,13 +134,13 @@ To promote closer interaction, all accepted publications will be presented in th
 
 ## Other Required Infomation
 
-Estimated no. of Attendees: 50
+**Estimated no. of Attendees**: 50
 
-Shared Task: No
+**Shared Task**: No
 
-Special Requirements / Technical Needs: No
+**Special Requirements / Technical Needs**: No
 
-URL for Workshop Website: https://nlposs.github.io/ 
+**URL for Workshop Website**: https://nlposs.github.io/ 
 
 
 
