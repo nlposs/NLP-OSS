@@ -124,6 +124,7 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
+ - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
 
 <!-- 
