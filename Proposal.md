@@ -16,7 +16,6 @@ Another example of precious OSS knowledge comes from SpaCy developer, where [Mon
 We hope that the NLP-OSS workshop becomes the intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
 
 
-
 ## Call for Papers
 
 We invite topics related to NLP-OSS under broadly categorized into (i) software development, (ii) scientific contribution (iii) NLP-OSS case studies.
@@ -48,17 +47,6 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
    - Writing open-source APIs for open data
    - Teaching NLP with OSS
    - Avoiding the hammer OSS in NLP
-
-<!-- 
-## Workshop Structure
-## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
-
-To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
--->
-
-## Expected Crowd Size:
-
-50
 
 
 ## Organizers
@@ -135,6 +123,25 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
+
+
+<!-- 
+## Workshop Structure
+## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
+
+To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+-->
+
+## Other Required Infomation
+
+Estimated no. of Attendees: 50
+
+Shared Task: No
+
+Special Requirements / Technical Needs: No
+
+URL for Workshop Website: https://nlposs.github.io/ 
+
 
 
 <!--
