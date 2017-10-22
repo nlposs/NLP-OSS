@@ -116,7 +116,6 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
  - [Abigail See](http://cs.stanford.edu/people/abisee/), Stanford University
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
- - Nathan Schneider
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
