@@ -94,16 +94,17 @@ To promote closer interaction, all accepted publications will be presented in th
  - [Jason Baldridge](http://www.jasonbaldridge.com/), Google 
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
- - Steven Bird
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
- - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
+ - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
+ - Dan Flickinger
+ - Michael Wayne Goodman
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
  - [Chris Hokamp](https://github.com/chrishokamp), Aylien Inc.
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
@@ -171,7 +172,6 @@ Exclude to avoid conflict of interest
 # Newly contacted, hasn't replied (to send follow-up on 23.10.17)
  - Dan Flickinger
  - Michael Wayne Goodman
- - Maarten van Gompel
  - Nathan Schneider
  
 # Hasn't contacted
