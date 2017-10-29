@@ -1,17 +1,18 @@
 Workshop for Natural Language Processing Open Source Software (NLP-OSS)
 ====
 
+
 With great scientific breakthrough comes solid engineering and open communities. The Natural Language Processing (NLP) community has benefited greatly from the open culture in sharing knowledge, data, and software. The primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP open source software (OSS) which we seldom talk about in scientific publications. Our secondary goal is to promote synergies between different open source projects and encourage cross-software collaborations and comparisons.
 
-We refer to Natural Language Processing OSS as an umbrella term that not only covers traditional syntactic, semantic, phonetic, and pragmatic applications; we extend the definition to include task-specific applications (e.g., machine translation, information retrieval, question-answering systems), low-level string processing that contains valid linguistic information (e.g. unicode creation for new languages, language-based character set definitions) and machine learning / artificial intelligence frameworks with functionalities focusing on text applications.
+We refer to Natural Language Processing OSS as an umbrella term that not only covers traditional syntactic, semantic, phonetic, and pragmatic applications; we extend the definition to include task-specific applications (e.g., machine translation, information retrieval, question-answering systems), low-level string processing that contains valid linguistic information (e.g. Unicode creation for new languages, language-based character set definitions) and machine learning/artificial intelligence frameworks with functionalities focusing on text applications.
 
 There are many workshops focusing open language resource/annotation creation and curation (e.g. BUCC, GWN, LAW, LOD, WAC). Moreover, we have the flagship LREC conference dedicated to linguistic resources. However, the engineering aspects of NLP OSS is overlooked and under-discussed within the community. There are open source conferences and venues (such as FOSDEM, OSCON, Open Source Summit) where discussions range from operating system kernels to air traffic control hardware but the representation of NLP related presentations is limited. In the Machine Learning (ML) field, the Journal of Machine Learning Research - Machine Learning Open Source Software (JMLR-MLOSS) is a forum for discussions and dissemination of ML OSS topics. We envision that the Workshop for NLP-OSS becomes a similar avenue for NLP OSS discussions.
 
-To our best knowledge, this is the first workshop proposal in the recent years that focuses more on the building aspect of NLP and lesser so on scientific novelty or state-of-art development. A decade ago, there was the SETQA-NLP (Software Engineering, Testing, and Quality Assurance for Natural Language Processing) workshop that raised awareness of the need for good software engineering practices in NLP. In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in silos communities within the ecologies of their respective projects. In addition to engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies
+To our best knowledge, this is the first workshop proposal in the recent years that focuses more on the building aspect of NLP and less on scientific novelty or state-of-art development. A decade ago, there was the SETQA-NLP (Software Engineering, Testing, and Quality Assurance for Natural Language Processing) workshop that raised awareness of the need for good software engineering practices in NLP. In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
 
-One example of NLP OSS synergy is NLTK’s support for Stanford NLP tools which provides a Pythonic interface to the Stanford tools written in Java. More recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that are related to cross OSS interfaces in NLTK (c.f. https://github.com/nltk/nltk/pull/1249). The developers have also interacted across their respective code repositories to raise issues and give code reviews. Beyond the diamond sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
+One example of NLP OSS synergy is NLTK’s support for Stanford NLP tools which provide a Pythonic interface to the Stanford tools written in Java. More recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that are related to cross-OSS interfaces in NLTK (c.f. https://github.com/nltk/nltk/pull/1249). The developers have also interacted across their respective code repositories to raise issues and give code reviews. Beyond the diamond-sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens the door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
 
-Another example of precious OSS knowledge comes from SpaCy developer, where [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp) shared her thoughts and challenges of maintaining commerical NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
+Another example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
 
 We hope that the NLP-OSS workshop becomes the intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
 
@@ -21,29 +22,30 @@ We hope that the NLP-OSS workshop becomes the intellectual forum to collate this
 We invite topics related to NLP-OSS under broadly categorized into (i) software development, (ii) scientific contribution (iii) NLP-OSS case studies.
 
  - **Software Development**
-   - Designing and developing NLP OSS
-   - Licensing issues in NLP OSS
-   - Backwards compatibility and stale code in NLP OSS
-   - Growing an NLP OSS community
-   - Maintaining and motivating NLP OSS community
-   - Best practices for NLP OSS documentations and tests
-   - Contribution to OSS without coding
+   - Designing and developing NLP-OSS
+   - Licensing issues in NLP-OSS
+   - Backwards compatibility and stale code in NLP-OSS
+   - Growing an NLP-OSS community
+   - Maintaining and motivating an NLP-OSS community
+   - Best practices for NLP-OSS documentation and testing
+   - Contribution to NLP-OSS without coding
    - Incentivizing OSS contributions in NLP
 
  - **Scientific Contribution**
    - Benchmarking OSS for specific NLP task(s)
-   - Demonstration and tutorial of NLP OSS
-   - New NLP OSS introductions
-   - Small but useful NLP OSS
-   - Machine learning vs NLP OSS
-   - Citations and references for NLP OSS
+   - Demonstration and tutorial of NLP-OSS
+   - New NLP-OSS introductions
+   - Small but useful NLP-OSS
+   - Machine learning vs NLP-OSS
+   - Citations and references for NLP-OSS
    - OSS vs experiment replicability
-   - Gaps between existing NLP OSS
-   - Task independent NLP OSS
+   - Gaps between existing NLP-OSS
+   - Task-independent NLP-OSS
+
 
  - **Case studies**
    - Case studies of how a specific bug is fixed or feature is added
-   - Writing wrappers for other NLP OSS
+   - Writing wrappers for other NLP-OSS
    - Writing open-source APIs for open data
    - Teaching NLP with OSS
    - Avoiding the hammer OSS in NLP
@@ -93,7 +95,7 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - Dan Flickinger
  - Michael Wayne Goodman
- - [Joel Grus](http://joelgrus.com/), Allen Institute for Articial Intelligence
+ - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
  - [Chris Hokamp](https://github.com/chrishokamp), Aylien Inc.
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
