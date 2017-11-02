@@ -93,7 +93,6 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
- - Dan Flickinger
  - [Michael Wayne Goodman](https://linguistics.washington.edu/people/michael-wayne-goodman), University of Washington
  - [Arwen Twinkle Griffioen](https://www.linkedin.com/in/arwengriffioen/), Zendesk Inc.
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
