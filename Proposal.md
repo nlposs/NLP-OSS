@@ -111,6 +111,7 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
+ - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
  - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
