@@ -56,6 +56,7 @@ contribution and (iii) NLP-OSS case studies.
    - Writing wrappers for other NLP-OSS
    - Writing open-source APIs for open data
    - Teaching NLP with OSS
+   - NLP-OSS in the industry
 
 Submission should be formatted according to the [ACL2018 templates](http://acl2018.org/call-for-papers/)
 
