@@ -13,16 +13,17 @@ Deadline for Long and Short Paper submission: 25th March 2018
 The First Workshop for NLP Open Source Software (NLP-OSS) will be co-located 
 with ACL 2018 at Melbourne, Australia on 20 July 2018. 
 
-The Workshop for NLP-OSS hopes to be the intellectual forum to collate engineering 
-knowledge focusing more on the building aspect of NLP and less on scientific 
-novelty or state-of-art development. 
+Focusing more on the social and engineering aspect of NLP software 
+and less on scientific novelty or state-of-art models, the Workshop for NLP-OSS 
+is an academic forum to advance open source developments for NLP research, 
+teaching and application.
 
-NLP-OSS also provides an the academic workshop platforms to announce new software/features, 
-promote the open source culture and best practices that go beyond the conferences.
+NLP-OSS also provides an academic workshop to announce new software/features, 
+promote the collaborative culture and best practices that go beyond the conferences.
 
-We invite full papers (8 pages) or short papers (4 pages) on topics related to NLP-OSS 
-broadly categorized into (i) software development, (ii) scientific contribution 
-and (iii) NLP-OSS case studies.
+We invite full papers (8 pages) or short papers (4 pages) on topics related to 
+NLP-OSS broadly categorized into (i) software development, (ii) scientific 
+contribution and (iii) NLP-OSS case studies.
 
  - **Software Development**
    - Designing and developing NLP-OSS
@@ -33,24 +34,28 @@ and (iii) NLP-OSS case studies.
    - Best practices for NLP-OSS documentation and testing
    - Contribution to NLP-OSS without coding
    - Incentivizing OSS contributions in NLP
+   - Commercialization and Intellectual Property of NLP-OSS
+   - Defining and managing NLP-OSS project scope
+   - Issues in API design for NLP
+   - NLP-OSS software interoperability
+   - Analysis of the NLP-OSS community
 
  - **Scientific Contribution**
-   - Benchmarking OSS for specific NLP task(s)
+   - Surveying OSS for specific NLP task(s)
    - Demonstration and tutorial of NLP-OSS
    - New NLP-OSS introductions
    - Small but useful NLP-OSS
-   - Machine learning vs NLP-OSS
+   - NLP components in ML OSS
    - Citations and references for NLP-OSS
    - OSS vs experiment replicability
    - Gaps between existing NLP-OSS
-   - Task-independent NLP-OSS
+   - Task-generic vs task-specific software
 
  - **Case studies**
    - Case studies of how a specific bug is fixed or feature is added
    - Writing wrappers for other NLP-OSS
    - Writing open-source APIs for open data
    - Teaching NLP with OSS
-   - Avoiding the hammer OSS in NLP
 
 Submission should be formatted according to the [ACL2018 templates](http://acl2018.org/call-for-papers/)
 
