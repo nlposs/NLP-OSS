@@ -19,7 +19,9 @@ We hope that the NLP-OSS workshop becomes the intellectual forum to collate this
 
 ## Call for Papers
 
-We invite topics related to NLP-OSS under broadly categorized into (i) software development, (ii) scientific contribution (iii) NLP-OSS case studies.
+We invite full papers (8 pages) or short papers (4 pages) on topics related to 
+NLP-OSS broadly categorized into (i) software development, (ii) scientific 
+contribution and (iii) NLP-OSS case studies.
 
  - **Software Development**
    - Designing and developing NLP-OSS
@@ -30,25 +32,30 @@ We invite topics related to NLP-OSS under broadly categorized into (i) software 
    - Best practices for NLP-OSS documentation and testing
    - Contribution to NLP-OSS without coding
    - Incentivizing OSS contributions in NLP
+   - Commercialization and Intellectual Property of NLP-OSS
+   - Defining and managing NLP-OSS project scope
+   - Issues in API design for NLP
+   - NLP-OSS software interoperability
+   - Analysis of the NLP-OSS community
 
  - **Scientific Contribution**
-   - Benchmarking OSS for specific NLP task(s)
+   - Surveying OSS for specific NLP task(s)
    - Demonstration and tutorial of NLP-OSS
    - New NLP-OSS introductions
    - Small but useful NLP-OSS
-   - Machine learning vs NLP-OSS
+   - NLP components in ML OSS
    - Citations and references for NLP-OSS
    - OSS vs experiment replicability
    - Gaps between existing NLP-OSS
-   - Task-independent NLP-OSS
-
+   - Task-generic vs task-specific software
 
  - **Case studies**
    - Case studies of how a specific bug is fixed or feature is added
    - Writing wrappers for other NLP-OSS
    - Writing open-source APIs for open data
    - Teaching NLP with OSS
-   - Avoiding the hammer OSS in NLP
+   - NLP-OSS in the industry
+
 
 
 ## Organizers
