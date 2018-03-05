@@ -59,7 +59,7 @@ contribution and (iii) NLP-OSS case studies.
    - NLP-OSS in the industry
 
 Submission should be formatted according to the [ACL2018 templates](http://acl2018.org/call-for-papers/)
-
+Softconf site: https://www.softconf.com/acl2018/NLPOSS
 
 ORGANIZERS
 
