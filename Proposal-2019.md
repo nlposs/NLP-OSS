@@ -65,9 +65,9 @@ contribution and (iii) NLP-OSS case studies.
      
      Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
      
- - [Masato Hagiwara](http://masatohagiwara.net/), Duolingo Inc.
+ - [Masato Hagiwara](http://masatohagiwara.net/), Octanove Labs LLC
 
-     Masato Hagiwara is a research scientist / software engineer working at Duolingo. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Before joining Duolingo, he was a lead scientist at Rakuten Institute of Technology in New York. His research interests include Japanese and Chinese language processing, machine translation / transliteration, and language education. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions in Japan on noisy text processing.
+     Masato Hagiwara is an independent NLP/ML enginner and researcher at Octanove Labs. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Most recently he was working as a Snnior Machine Learning Engineer at Duolingo, focusing on educational applications of NLP. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions on noisy text processing and OSS (NLP-OSS 2018).
 
  - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. 
  
