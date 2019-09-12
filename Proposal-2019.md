@@ -12,7 +12,8 @@ To our best knowledge, this is the first workshop proposal in the recent years t
 
 One example of NLP OSS synergy is NLTK’s support for Stanford NLP tools which provide a Pythonic interface to the Stanford tools written in Java. More recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that are related to cross-OSS interfaces in NLTK (c.f. https://github.com/nltk/nltk/pull/1249). The developers have also interacted across their respective code repositories to raise issues and give code reviews. Beyond the diamond-sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens the door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
 
-Another example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
+Another example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability. 
+
 
 We hope that the NLP-OSS workshop becomes the intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
 
@@ -68,20 +69,24 @@ contribution and (iii) NLP-OSS case studies.
 
      Masato Hagiwara is a research scientist / software engineer working at Duolingo. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Before joining Duolingo, he was a lead scientist at Rakuten Institute of Technology in New York. His research interests include Japanese and Chinese language processing, machine translation / transliteration, and language education. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions in Japan on noisy text processing.
 
- - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. dimazest@gmail.com
+ - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. 
  
      Dmitrijs is a guest researcher at National Institute of Standards and Technology (NIST) working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collocated hackathon.
+     
+ - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Natural Language Processing Group, Stanford University.
  
- - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+     Nelson Liu is a PhD student at Stanford NLP Group working on generalizability and robustness of natural language processing systems. He has been an active contributor to AllenNLP and made contriutions to Scikit-Learn during his participation in Google Summer of Code Developer. He participated in the first edition of NLP-OSS workshop and now organizing his first *ACL workshop!
+ 
+<!--  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
      
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task. 
-
+-->
 
 ## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
-- [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
-- [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI
-- [Joel Nothman](http://joelnothman.com), University of Sydney
+
+<!-- - [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI -->
+
 
 
 ## Programme Committee (Hopeful list)
