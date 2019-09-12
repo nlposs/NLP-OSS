@@ -23,5 +23,5 @@ We look forward to your response and hopefully seeing you speak at NLP-OSS 2020!
 
 Thank you in advance for your response. 
 
-Regards,
+Best Regards,
 NLP-OSS Organizers
