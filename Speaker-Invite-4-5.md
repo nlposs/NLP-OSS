@@ -6,7 +6,7 @@ We are sorry to have missed you in the previous edition of the NLP-OSS workshop,
 
 The NLP-OSS workshop is unlike the normal scientific track of academic workshop, our primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing and maintaining NLP open source software (OSS) which we seldom talk about in scientific publications. The secondary goal is to promote synergies between different open source projects and encourage cross-software comparisons. Our organizers and committee comprises of experts like yourself with notable OSS contribution to ML/NLP projects. 
 
-More details about the first edition of the workshop workshop can be found on https://github.com/nlposs/NLP-OSS 
+More details about the first edition of the workshop workshop can be found on https://nlposs.github.io/
 
 Our proposal would be submitted to one of the four conferences and the workshop would be co-located with either:
 
