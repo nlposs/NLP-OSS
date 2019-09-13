@@ -10,7 +10,7 @@ Your sponsorship helps keep NLP-OSS sustainable to widest possible audience. The
 
 Depending on your level of sponsorship, packages include keynote seat drop, suggesting an invited talk, logo on webpage and plenary session branding.
 
-Sponsorship benefits (Details):
+**Sponsorship benefits (Details):**
 
 | Gold | Silver | Bronze | 
 |:-|:-|:-|
