@@ -1,4 +1,4 @@
-We would like to invite you as sponsor of the Workshop for NLP Open Source Software (NLP-OSS) in <Conference> (<Website>) in <City>, <Country>. 
+We would like to invite you as sponsor of the Workshop for NLP Open Source Software (NLP-OSS) in `<Conference> (<Website>) in <City>, <Country>`. 
 
 The Workshop for NLP-OSS is the gathering of Natural Language Processing (NLP) researchers and practitioners researching, developing and using Open Source Softwares (OSS). Our primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing, and maintaining NLP-OSS which we seldom talk about in scientific publications.
 
