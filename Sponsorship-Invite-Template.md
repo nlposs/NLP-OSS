@@ -22,8 +22,12 @@ With your help, I'm sure we can make NLP-OSS a success and grow the NLP-OSS comm
 We look forward to hearing from you!
 
 Regards from organizers,
-Lucy Park, NAVER Corp.
-Masato Hagiwara, Octanove Labs
-Nelson Liu, Stanford University
-Dmitrijs Milajevs, NIST 
+
+ Lucy Park, NAVER Corp.
+ 
+ Masato Hagiwara, Octanove Labs
+ 
+ Nelson Liu, Stanford University
+
+ Dmitrijs Milajevs, NIST 
 
