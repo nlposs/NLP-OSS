@@ -77,10 +77,9 @@ contribution and (iii) NLP-OSS case studies.
 
      Nelson Liu is a PhD student at Stanford NLP Group working on generalizability and robustness of natural language processing systems. He has been an active contributor to AllenNLP and made contriutions to Scikit-Learn during his participation in Google Summer of Code Developer. He participated in the first edition of NLP-OSS workshop and now organizing his first *ACL workshop!
 
-<!--  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+ - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task.
--->
 
 ## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
