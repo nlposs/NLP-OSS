@@ -1,4 +1,4 @@
-Workshop for Natural Language Processing Open Source Software (NLP-OSS)
+2nd Workshop for Natural Language Processing Open Source Software (NLP-OSS)
 ====
 
 
@@ -8,20 +8,23 @@ We refer to Natural Language Processing OSS as an umbrella term that not only co
 
 There are many workshops focusing open language resource/annotation creation and curation (e.g. BUCC, GWN, LAW, LOD, WAC). Moreover, we have the flagship LREC conference dedicated to linguistic resources. However, the engineering aspects of NLP OSS is overlooked and under-discussed within the community. There are open source conferences and venues (such as FOSDEM, OSCON, Open Source Summit) where discussions range from operating system kernels to air traffic control hardware but the representation of NLP related presentations is limited. In the Machine Learning (ML) field, the Journal of Machine Learning Research - Machine Learning Open Source Software (JMLR-MLOSS) is a forum for discussions and dissemination of ML OSS topics. We envision that the Workshop for NLP-OSS becomes a similar avenue for NLP OSS discussions.
 
-To our best knowledge, this is the first workshop proposal in the recent years that focuses more on the building aspect of NLP and less on scientific novelty or state-of-art development. A decade ago, there was the SETQA-NLP (Software Engineering, Testing, and Quality Assurance for Natural Language Processing) workshop that raised awareness of the need for good software engineering practices in NLP. In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
+A decade ago, there was also the SETQA-NLP (Software Engineering, Testing, and Quality Assurance for Natural Language Processing) workshop that raised awareness of the need for good software engineering practices in NLP. In the earlier days of NLP, linguistic software was often monolithic and the learning curve to install, use, and extend the tools was steep and frustrating. More often than not, NLP OSS developers/users interact in siloed communities within the ecologies of their respective projects. In addition to engineering aspects of NLP software, the open source movement has brought a community aspect that we often overlook in building impactful NLP technologies.
 
-One example of NLP OSS synergy is NLTK’s support for Stanford NLP tools which provide a Pythonic interface to the Stanford tools written in Java. More recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that are related to cross-OSS interfaces in NLTK (c.f. https://github.com/nltk/nltk/pull/1249). The developers have also interacted across their respective code repositories to raise issues and give code reviews. Beyond the diamond-sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens the door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
+One example of NLP OSS synergy is NLTK's support for Stanford NLP tools which provide a Pythonic interface to the Stanford tools written in Java. More recently, the REST-ful API from Stanford CoreNLP tools has alleviated a host of issues that are related to cross-OSS interfaces in NLTK (c.f. https://github.com/nltk/nltk/pull/1249). The developers have also interacted across their respective code repositories to raise issues and give code reviews. Beyond the diamond-sharpening effect of cross-OSS collaborations, the result of the successful interface between the tools opens the door to easily benchmark annotations created by NLTK and Stanford CoreNLP.
 
-Another example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability. 
+Another example of precious OSS knowledge comes from SpaCy developer [Montani (2017)](https://ines.io/blog/spacy-commercial-open-source-nlp), who shared her thoughts and challenges of maintaining commercial NLP OSS, such as handling open issues on the issue tracker, model release and packaging strategy and monetizing NLP OSS for sustainability.
 
+More recently, there is also the [PyTorch Transformer](https://github.com/huggingface/pytorch-transformers) by Hugging Face, which has gathered much interest from the community by open sourcing implementations and pretrained weights of BERT-like models, in a clean and well-organized structure.
 
-We hope that the NLP-OSS workshop becomes the intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
+To our best knowledge, the first NLP-OSS workshop, which was co-located with ACL 2018, was the first workshop in recent years that focused more on building quality software for NLP, open sourcing, developing useful engineering practices, and less on scientific novelty or state-of-art development.
+
+We hope that the 2nd NLP-OSS workshop could also be hosted in an *ACL conference, to be an intellectual forum to collate this type of knowledge, announce new software/features, promote the open source culture and best practices that go beyond the conferences.
 
 
 ## Call for Papers
 
-We invite full papers (8 pages) or short papers (4 pages) on topics related to 
-NLP-OSS broadly categorized into (i) software development, (ii) scientific 
+We invite full papers (8 pages) or short papers (4 pages) on topics related to
+NLP-OSS broadly categorized into (i) software development, (ii) scientific
 contribution and (iii) NLP-OSS case studies.
 
  - **Software Development**
@@ -62,29 +65,29 @@ contribution and (iii) NLP-OSS case studies.
 ## Organizers
 
  - [Lucy Park](https://github.com/e9t), NAVER Corp.
-     
-     Lucy is a research scientist at NAVER. During her Ph.D. studies at Seoul National University, she investigated better representations for text, and started several open source projects such as [KoNLPy](http://konlpy.org). Her current research area is machine translation -- focused on user log analysis and multilingual NMT.
-     
+
+     Lucy is a machine learning engineer at NAVER. She has participated in some open source projects, particularly [KoNLPy](http://konlpy.org) which is a tool for Korean NLP, and is also interested in open data. She received her Ph.D in Data Mining from Seoul National University in 2016, where she has pursued various studies on text mining in the fields of manufacturing, political science, and multimedia. After her studies, she joined NAVER, a South Korea based search-engine company, and is currently working on machine translation for Papago. Her research interests include machine translation, multilingual text mining, and evaluation of machine learning algorithms.
+
  - [Masato Hagiwara](http://masatohagiwara.net/), Octanove Labs LLC
 
      Masato Hagiwara is an independent NLP/ML enginner and researcher at Octanove Labs. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Most recently he was working as a Snnior Machine Learning Engineer at Duolingo, focusing on educational applications of NLP. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions on noisy text processing and OSS (NLP-OSS 2018).
 
- - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London. 
- 
+ - [Dmitrijs Milajevs](http://www.eecs.qmul.ac.uk/~dm303/), NIST and Queen Mary University of London.
+
      Dmitrijs is a guest researcher at National Institute of Standards and Technology (NIST) working on the evaluation of information retrieval systems. He has just defended a PhD thesis on evaluation of compositional models in distributional semantics. He was responsible for a website for the [11th International Conference on Computational Semantics (IWCS 2015)](http://iwcs2015.github.io/) and a collocated hackathon.
-     
+
  - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Natural Language Processing Group, Stanford University.
- 
+
      Nelson Liu is a PhD student at Stanford NLP Group working on generalizability and robustness of natural language processing systems. He has been an active contributor to AllenNLP and made contriutions to Scikit-Learn during his participation in Google Summer of Code Developer. He participated in the first edition of NLP-OSS workshop and now organizing his first *ACL workshop!
- 
-<!--  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
-     
-     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task. 
--->
+
+ - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
+
+     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task.
 
 ## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
 
+*TBD*
 <!-- - [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI -->
 
 
@@ -93,7 +96,7 @@ contribution and (iii) NLP-OSS case studies.
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
- - [Jason Baldridge](http://www.jasonbaldridge.com/), Google 
+ - [Jason Baldridge](http://www.jasonbaldridge.com/), Google
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
@@ -101,7 +104,7 @@ contribution and (iii) NLP-OSS case studies.
  - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
- - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland 
+ - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
@@ -129,7 +132,7 @@ contribution and (iii) NLP-OSS case studies.
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
  - [Abigail See](http://cs.stanford.edu/people/abisee/), Stanford University
- - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh 
+ - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
@@ -142,7 +145,7 @@ contribution and (iii) NLP-OSS case studies.
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
 
-<!-- 
+<!--
 ## Workshop Structure
 ## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
 
@@ -157,7 +160,7 @@ To promote closer interaction, all accepted publications will be presented in th
 
 **Special Requirements / Technical Needs**: No
 
-**URL for Workshop Website**: https://nlposs.github.io/ 
+**URL for Workshop Website**: https://nlposs.github.io/
 
 
 
@@ -186,17 +189,17 @@ Exclude to avoid conflict of interest
  - Spence Green
  - Paul Groth
  - Kenneth Heathfield
- - Marcin Junczys-Dowmunt 
- 
+ - Marcin Junczys-Dowmunt
+
 
 # Liling will try contacting
  - Josef van Genabith
- 
+
 # Newly contacted, hasn't replied (to send follow-up on 23.10.17)
  - Dan Flickinger
  - Michael Wayne Goodman
  - Nathan Schneider
- 
+
 # Hasn't contacted
  - Andreas Kirkedal
  - Nikolay Shmyrev (cmu-sphinx)
@@ -205,8 +208,8 @@ Exclude to avoid conflict of interest
  - Jorg Tiedemann
  - David Weenink  (Praat)
  - Torsten Zesch
- 
+
 # Replied but no clear answer (worth recontacting)
  - Daniel Povey (Kaldi)
- 
+
 -->
