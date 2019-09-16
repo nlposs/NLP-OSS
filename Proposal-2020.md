@@ -96,7 +96,6 @@ contribution and (iii) NLP-OSS case studies.
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
- - [Jason Baldridge](http://www.jasonbaldridge.com/), Google
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
@@ -104,7 +103,6 @@ contribution and (iii) NLP-OSS case studies.
  - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
- - [Hal Daumé III](https://www.umiacs.umd.edu/~hal/), University of Maryland
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
@@ -117,11 +115,9 @@ contribution and (iii) NLP-OSS case studies.
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
- - [Diana Maynard](http://www.dcs.shef.ac.uk/~diana/), University of Sheffield
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
- - [Graham Neubig](http://www.phontron.com/), Carnegie Mellon University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
@@ -136,7 +132,6 @@ contribution and (iii) NLP-OSS case studies.
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
- - [Pontus Stenetorp](http://pontus.stenetorp.se), University College London
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
