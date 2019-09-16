@@ -19,7 +19,9 @@ Our proposal would be submitted to one of the four conferences and the workshop 
 | EMNLP	| Barceló Bávaro Convention <br> Centre, Dominican Republic  | 11-12 November 2020 |
 | AACL/IJCNLP 2020 | Suzhou, China | 4-7 December 2020 | 
 
-We would be grateful if you could confirm your participation in the committee by replying to this email or post a comment on https://github.com/nlposs/NLP-OSS/issues/1. We hope that you confirm your participation soon. If we don't hear from you to step down from the PC role, we would automatically add you in as part of the PC in NLP-OSS 2020. 
+We would be grateful if you could confirm your participation in the committee by replying to this email or post a comment on https://github.com/nlposs/NLP-OSS/issues/19. We hope that you confirm your participation soon. If we don't hear from you to step down from the PC role, we would automatically add you in as part of the PC in NLP-OSS 2020. 
+
+If you have change your affliations recently, please do reply to this email and we'll make the changes accordingly for the NLP-OSS 2020 website. 
 
 If you have other PC candidates that you would like to recommend for the workshop, please do contact us. 
 
