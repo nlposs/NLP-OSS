@@ -1,6 +1,6 @@
 Dear ____,
 
-Thank you again for being part of the Program Committe in the first edition of Workshop for NLP Open Source Software (NLP-OSS) in 2018. The workshop would not have been possible without your contribution https://nlposs.github.io/!
+Thank you again for being part of the Program Committee in the first edition of Workshop for NLP Open Source Software (NLP-OSS) in 2018. The workshop would not have been possible without your contribution https://nlposs.github.io/!
 
 We would like to invite you to join the Program Committee for the Workshop for NLP Open Source Software (NLP-OSS) in 2020. 
 
