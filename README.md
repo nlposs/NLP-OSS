@@ -2,7 +2,7 @@
 
 This is the Github page where we keep track of the developments of NLP-OSS workshop. 
 
-The [ACL/COLING/EMNLP/NAACL proposal](https://www.aclweb.org/portal/content/first-joint-call-workshop-proposals-aclcolingemnlpnaacl-2018) is at https://github.com/alvations/NLP-OSS/blob/master/Proposal.md
+The [ACL/COLING/EMNLP/NAACL proposal](https://www.aclweb.org/portal/content/first-joint-call-workshop-proposals-aclcolingemnlpnaacl-2018) is at https://github.com/nlposs/NLP-OSS/blob/master/Proposal.md
 
 Let's use the issue tracker to do the following:
 
