@@ -87,9 +87,8 @@ contribution and (iii) NLP-OSS case studies.
 ## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
 
 
-*TBD*
-<!-- - [Matthew Honnibal and Ines Montani](https://explosion.ai), Explosion AI -->
-
+- [Thomas Wolf](https://thomwolf.io), Huggingface
+- [Chip Huyen](https://huyenchip.com), NVIDIA
 
 
 ## Programme Committee (Hopeful list)
