@@ -68,6 +68,7 @@ Industry vs Academic PC members:
 
 Invited speakers: 
  
+## Misc
  
 **Estimated no. of Attendees**: 50
 
