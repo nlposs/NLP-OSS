@@ -30,7 +30,7 @@ We encourage and strive for the following types of behavior when communicating w
 ### Be civil and considerate
 
  1. Disagreement is no excuse for poor conduct or personal attacks. A community where people feel uncomfortable is not a productive one.
- 2. If you would not feel comfortable saying something to a co-worker or acquaintance, it is probably not appropriate on an OSI list either.
+ 2. If you would not feel comfortable saying something to a co-worker or acquaintance, it is probably not appropriate on to any NLP-OSS member either.
  
 ### Assume good faith
 
