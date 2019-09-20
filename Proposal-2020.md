@@ -60,7 +60,28 @@ contribution and (iii) NLP-OSS case studies.
    - Teaching NLP with OSS
    - NLP-OSS in the industry
 
+## Demographic Diversity
 
+Organizers:  
+
+Industry vs Academic PC members: 
+
+Invited speakers: 
+ 
+ 
+**Estimated no. of Attendees**: 50
+
+**Shared Task**: No
+
+**Special Requirements / Technical Needs**: No
+
+
+**Previous Workshop**:
+
+  - [First Workshop for NLP-OSS at ACL 2018](https://nlposs.github.io)
+    - 10 submissions, 9 accepted publications
+    - 30+ attendees
+    - 3 invited speakers
 
 ## Organizers
 
@@ -138,20 +159,6 @@ contribution and (iii) NLP-OSS case studies.
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
-
-**Estimated no. of Attendees**: 50
-
-**Shared Task**: No
-
-**Special Requirements / Technical Needs**: No
-
-
-**Previous Workshop**:
-
-  - [First Workshop for NLP-OSS at ACL 2018](https://nlposs.github.io)
-    - 10 submissions, 9 accepted publications
-    - 30+ attendees
-    - 3 invited speakers
     
 **Expected no. of submissions**: 15-20 submissions
 
