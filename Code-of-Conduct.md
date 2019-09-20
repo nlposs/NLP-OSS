@@ -61,7 +61,7 @@ The following types of behavior are unacceptable at NLP-OSS, both online and in-
 While ACL and NLP-OSS are professional community, it's also a community of friends. We ask you to be aware of the fact that conversations (online/offline interactions) that may be appropriate within the context of a specific friendship or relationship with another NLP-OSS members may be inappropriate at the NLP-OSS workshop and other online comunication channels, also these conversations may be inappropriate in a group conversation with other NLP-OSS members you don't know well.
 
 
-### Interpretation
+## Interpretation
 
 This code of conduct is not exhaustive or complete. It is not a rulebook; it serves to distill our common understanding of a collaborative, shared environment and goals. 
 
