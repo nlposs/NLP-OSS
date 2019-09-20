@@ -11,7 +11,7 @@ It is the responsibility of the community as a whole to promote an inclusive and
 
 ## Why have a code of conduct?
 
-(*Adaptations from the original ACL's anti-harassment policy is italicized in the following code of conduct)
+(**Adaptations from the original ACL's anti-harassment policy is italicized in the following code of conduct**)
 
 Same as the ACL anti-harassment policy, we hope to achieve the goal of *open exchange of ideas, the freedom of thought and expression, and respectful scientific debate at the NLP-OSS workshop. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, NLP-OSS is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs. We want to reiterate our stance on zero-tolerance for bad actors, misconduct, non-inclusivity, harassement and discrimation with this code of conduct.* 
 
