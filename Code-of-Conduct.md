@@ -13,7 +13,7 @@ Same as the ACL anti-harassment policy, we hope to achieve the goal of open exch
 
 Our goals are to create the best avenue to discuss NLP and OSS related issues and promote synergies across different OSS projects. We want every member in the community (i.e. authors, attendees, supporters, programme committee members and organizers) to focus their full attention on scientific, engineering and community building aspects of NLP-OSS. And this is impossible to do if you are being harassed, stalked, or discriminated against.
 
-Accordingly, all member in the community (i.e. publication authors, guest speakers, attendees, supporters, programme committee members and organizers), are expected to show respect and courtesy to each other in all interactions, whether at RC, in our online community, at the workshop or in other contexts.
+Accordingly, all member in the community (i.e. publication authors, guest speakers, attendees, supporters, programme committee members and organizers), are expected to show respect and courtesy to each other in all interactions, whether at NLP-OSS workshop or in our online interactions, or in other contexts.
 
 To make sure that everyone has a common understanding of “show respect and courtesy to each other,” we have adopted the following code of conduct. The code of conduct is enforced by the NLP-OSS organizers and all misconduct or hostility will be reported to the ACL Executive Committee. 
 
