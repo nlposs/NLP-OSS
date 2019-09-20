@@ -83,6 +83,8 @@ Invited speakers:
     - 10 submissions, 9 accepted publications
     - 30+ attendees
     - 3 invited speakers
+    
+**Expected no. of submissions**: 15-20 submissions
 
 ## Organizers
 
@@ -160,8 +162,7 @@ Invited speakers:
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
-    
-**Expected no. of submissions**: 15-20 submissions
+
 
 <!--
 ## Workshop Structure
