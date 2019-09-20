@@ -6,16 +6,20 @@ Harassment and hostile behavior are unwelcome at any ACL conference, associated 
 
 It is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact any current member of the ACL Executive Committee or contact Priscilla Rasmussen (acl@aclweb.org), who is usually available at the registration desk during ACL conferences. Members of the executive committee will be instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.
 
+----
+
 
 ## Why have a code of conduct?
 
-Same as the ACL anti-harassment policy, we hope to achieve the goal of open exchange of ideas, the freedom of thought and expression, and respectful scientific debate at the NLP-OSS workshop. We want to reiterate our stance on zero-tolerance for bad actors, misconduct, non-inclusivity, harassement and discrimation with this code of conduct.
+(*Adaptations from the original ACL's anti-harassment policy is italicized in the following code of conduct)
+
+Same as the ACL anti-harassment policy, we hope to achieve the goal of *open exchange of ideas, the freedom of thought and expression, and respectful scientific debate at the NLP-OSS workshop. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, NLP-OSS is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs. We want to reiterate our stance on zero-tolerance for bad actors, misconduct, non-inclusivity, harassement and discrimation with this code of conduct.* 
 
 Our goals are to create the best avenue to discuss NLP and OSS related issues and promote synergies across different OSS projects. We want every member in the community (i.e. authors, attendees, supporters, programme committee members and organizers) to focus their full attention on scientific, engineering and community building aspects of NLP-OSS. And this is impossible to do if you are being harassed, stalked, or discriminated against.
 
 Accordingly, all member in the community (i.e. publication authors, guest speakers, attendees, supporters, programme committee members and organizers), are expected to show respect and courtesy to each other in all interactions, whether at NLP-OSS workshop or in our online interactions, or in other contexts.
 
-To make sure that everyone has a common understanding of “show respect and courtesy to each other,” we have adopted the following code of conduct. The code of conduct is enforced by the NLP-OSS organizers and all misconduct or hostility will be reported to the ACL Executive Committee. 
+To make sure that everyone has a common understanding of “show respect and courtesy to each other,” we have extended ACL's anti-harassment policy and adopted the following code of conduct. The code of conduct is enforced by the NLP-OSS organizers and all misconduct or hostility will be reported to the ACL Executive Committee. 
 
 
 ## Appropriate behavior
@@ -44,7 +48,11 @@ The following types of behavior are unacceptable at NLP-OSS, both online and in-
 
 ### Abusive behavior
 
- - **Harassment** —including offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion, as well as sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual or romantic attention.
+*Harassment and hostile behavior are unwelcome at NLP-OSS or any ACL conference, associated event, or in ACL-affiliated on-line discussions.* 
+
+ - **Hostility** - inlcuing *speech or behavior that intimidates, creates discomfort, or interferes with a person's participation or opportunity for participation in a conference or an event*
+
+ - **Harassment** —including *race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, body sizem or gender identity. As well as sexual images in public spaces, degrading verbal comments, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual or romantic attention.*
 
  - **Threats** —threatening someone physically or verbally. For example, threatening to publicize sensitive information about someone’s personal life.
 
@@ -64,6 +72,12 @@ While ACL and NLP-OSS are professional community, it's also a community of frien
 ## Interpretation
 
 This code of conduct is not exhaustive or complete. It is not a rulebook; it serves to distill our common understanding of a collaborative, shared environment and goals. 
+
+*The ACL's anti-harassment policy and NLP-OSS code of conduct are not intended to inhibit challenging scientific debate, but rather to promote it through ensuring that all are welcome to participate in shared spirit of scientific inquiry. Vexatious complaints and willful misuse of this procedure will render the complainant subject to the same sanctions as a violation of the ACL's anti-harassment policy.*
+
+## Enforcement
+
+*It is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact NLP-OSS organizers, any current member of the ACL Executive Committee or contact Priscilla Rasmussen (acl@aclweb.org), who is usually available at the registration desk during ACL conferences. Members of the executive committee will be instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.*
 
 ## License
 
