@@ -55,7 +55,7 @@ The following types of behavior are unacceptable at NLP-OSS, both online and in-
  
   -  **Maliciousness towards other NLP-OSS members in the community** deliberately attempting to make others feel bad, name-calling, singling out others for derision or exclusion. For example, telling someone they’re not a real linguist/programmer or that they don’t belong at NLP-OSS or ACL.
 
- - **Being especially unpleasant** —for example, if we’ve received reports from multiple Recursers or faculty of annoying, rude, or especially distracting behavior.
+ - **Being especially unpleasant** —for example, if we’ve received reports from multiple NLP-OSS members about annoying, rude, or especially distracting behavior.
  
  
 While ACL and NLP-OSS are professional community, it's also a community of friends. We ask you to be aware of the fact that conversations (online/offline interactions) that may be appropriate within the context of a specific friendship or relationship with another NLP-OSS members may be inappropriate at the NLP-OSS workshop and other online comunication channels, also these conversations may be inappropriate in a group conversation with other NLP-OSS members you don't know well.
