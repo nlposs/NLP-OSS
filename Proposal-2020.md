@@ -139,24 +139,28 @@ contribution and (iii) NLP-OSS case studies.
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
 
-<!--
-## Workshop Structure
-## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
-
-To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
--->
-
-## Other Required Infomation
-
 **Estimated no. of Attendees**: 50
 
 **Shared Task**: No
 
 **Special Requirements / Technical Needs**: No
 
-**URL for Workshop Website**: https://nlposs.github.io/
 
+**Previous Workshop**:
 
+  - [First Workshop for NLP-OSS at ACL 2018](https://nlposs.github.io)
+    - 10 submissions, 9 accepted publications
+    - 30+ attendees
+    - 3 invited speakers
+    
+**Expected no. of submissions**: 15-20 submissions
+
+<!--
+## Workshop Structure
+## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
+
+To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+-->
 
 <!--
 Verbal Endorsements
