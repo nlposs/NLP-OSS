@@ -94,7 +94,7 @@ Invited speakers:
 
  - [Masato Hagiwara](http://masatohagiwara.net/), Octanove Labs LLC
 
-     Masato Hagiwara is an independent NLP/ML engineer and researcher at Octanove Labs. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan, focusing on search engine-related language processing research. Most recently he was working as a Senior Machine Learning Engineer at Duolingo, focusing on educational applications of NLP. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized a couple of workshops and special sessions on noisy text processing and OSS (NLP-OSS 2018).
+     Masato Hagiwara is an independent NLP/ML engineer and researcher at Octanove Labs. He received his Ph.D. degree in Information Science from Nagoya University in 2009. During his Ph.D., he worked at Google and Microsoft Research as an intern, and thereafter at Baidu Japan and Rakuten Institute of Technology, focusing on search engine-related language processing research. Most recently he was working as a Senior Machine Learning Engineer at Duolingo, focusing on educational applications of NLP. He received several paper awards from Japanese domestic conferences for his work on knowledge acquisition and transliteration. He also co-organized several workshops and shared tasks, including NLP-OSS 2018.
 
  - [Dmitrijs Milajevs](http://zest.id.lv/), KPMG LLP.
 
