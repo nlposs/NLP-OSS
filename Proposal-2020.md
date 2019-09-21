@@ -113,7 +113,7 @@ Invited speakers:
 
 - [Thomas Wolf](https://thomwolf.io), Huggingface
 - [Chip Huyen](https://huyenchip.com), NVIDIA
-
+- [Spencer Kelly](https://spencermounta.in/), Freelance Developer
 
 ## Programme Committee (Hopeful list)
 
