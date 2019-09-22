@@ -131,9 +131,7 @@ Organizers:
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
- - [Marine Carpuat](http://www.cs.umd.edu/~marine/), University of Maryland
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
- - [Grzegorz Chrupała](http://grzegorz.chrupala.me/), Tilburg University
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
@@ -158,10 +156,8 @@ Organizers:
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
- - [Abigail See](http://cs.stanford.edu/people/abisee/), Stanford University
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
- - [Vered Shwartz](http://u.cs.biu.ac.il/~havivv/), Bar-Ilan University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
@@ -169,7 +165,6 @@ Organizers:
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
-
 
 
 <!--
