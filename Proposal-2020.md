@@ -69,7 +69,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 **Organizers:** We have 4 organizers with representation from industrial NLP/ML labs, consultancy labs and academic research.  
 
-**PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to 28 invitations to WiNLP members), whom they have not confirmed the PC invitation and thus not listed in the PC list below.
+**PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to ~30 invitations to WiNLP members); if they have not replied and accepted the invitation, we have not listed in the PC list below. 
 
 **Invited speakers**: Our invited speakers come from various backgrounds and have been involved with NLP open source development and may not have been that active within the ACL community. We strive to continue the tradition of inviting a diverse range of speakers to talk about NLP OSS to talk about a balance between OSS development, scientific contribution and community building around OSS. All three speakers have confirmed their participation to give an invited talk (depending on their availability after the exact conference assignment). 
  
@@ -125,11 +125,13 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
+ - Tim Baldwin, University of Melbourne
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
+ - Geeticka Chauhan,	Massachusetts Institute of Technology
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - Shamil Chollampatt,	Rakuten Institute of Technology
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
@@ -145,6 +147,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - Varun Kumar,	Amazon Alexa
+ - Paul Pu Liang, Carnegie Mellon University
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
@@ -175,7 +178,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 Karin Sim Smith, Lingo24
 Tilahun Abedissa,	Addis Ababa University
-Geeticka Chauhan,	Massachusetts Institute of Technology
 Anca Dumitrache,	FD Mediagroep
 Eunsol Choi,	University of Washington
 Teresa Lynn,	Dublin City University
@@ -197,7 +199,6 @@ Kelvin Cohen,	University of Boulder, Colorado
 Jade Z. Abbott,	Retro Rabbit
 Laura Martinus,	Explore AI
 
-Tim Baldwin
 Yoav Goldberg
 Emily Bender
 Leon Derczynski
