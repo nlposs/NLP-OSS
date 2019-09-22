@@ -142,7 +142,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - Varun Kumar,	Amazon Alexa
- - Paul Pu Liang, Carnegie Mellon University
+ - [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/), Carnegie Mellon University
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
