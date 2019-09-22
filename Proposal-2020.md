@@ -164,6 +164,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
+ - Shilpa Suresh, Independent Researcher
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
