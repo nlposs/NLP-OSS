@@ -141,7 +141,7 @@ Organizers:
  - [Michael Wayne Goodman](https://linguistics.washington.edu/people/michael-wayne-goodman), University of Washington
  - [Arwen Twinkle Griffioen](https://www.linkedin.com/in/arwengriffioen/), Zendesk Inc.
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
- - [Chris Hokamp](https://github.com/chrishokamp), Aylien Inc.
+ - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
