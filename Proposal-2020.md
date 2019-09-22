@@ -25,8 +25,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - Designing and developing NLP-OSS
    - Licensing issues in NLP-OSS
    - Backwards compatibility and stale code in NLP-OSS
-   - Growing an NLP-OSS community
-   - Maintaining and motivating an NLP-OSS community
+   - Growing, maintaining and motivating an NLP-OSS community
    - Best practices for NLP-OSS documentation and testing
    - Contribution to NLP-OSS without coding
    - Incentivizing OSS contributions in NLP
