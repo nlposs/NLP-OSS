@@ -60,13 +60,20 @@ contribution and (iii) NLP-OSS case studies.
    - Teaching NLP with OSS
    - NLP-OSS in the industry
 
+## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
+
+
+- [Thomas Wolf](https://thomwolf.io), Huggingface
+- [Chip Huyen](https://huyenchip.com), NVIDIA
+- [Spencer Kelly](https://spencermounta.in/), Freelance Developer
+
 ## Demographic Diversity
 
 Organizers:  
 
-Industry vs Academic PC members: 
+**PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. ... To do. 
 
-Invited speakers: 
+**Invited speakers**: Our invited speakers come from various backgrounds and have been involved with NLP open source development but might not have been that active within the ACL community. We strive to continue the tradition of inviting a diverse range of speakers to talk about NLP OSS to talk about a balance between OSS development, scientific contribution and community building around OSS. All three speakers have confirmed their participation, depending on the availability after the exact conference assignment. 
  
 ## Misc
  
@@ -75,6 +82,13 @@ Invited speakers:
 **Shared Task**: No
 
 **Special Requirements / Technical Needs**: No
+
+**Preferred Venue**: 
+
+ 1. ACL
+ 2. EMNLP 
+ 3. COLING
+ 4. AACL/IJCNLP
 
 
 **Previous Workshop**:
@@ -108,12 +122,6 @@ Invited speakers:
 
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task.
 
-## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
-
-
-- [Thomas Wolf](https://thomwolf.io), Huggingface
-- [Chip Huyen](https://huyenchip.com), NVIDIA
-- [Spencer Kelly](https://spencermounta.in/), Freelance Developer
 
 ## Programme Committee (Hopeful list)
 
