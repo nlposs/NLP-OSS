@@ -37,8 +37,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
  - **Scientific Contribution**
    - Surveying OSS for specific NLP task(s)
-   - Demonstration and tutorial of NLP-OSS
-   - New NLP-OSS introductions
+   - Demonstration, Introductions and/or tutorial of NLP-OSS
    - Small but useful NLP-OSS
    - NLP components in ML OSS
    - Citations and references for NLP-OSS
