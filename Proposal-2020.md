@@ -123,16 +123,19 @@ Organizers:
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task.
 
 
-## Programme Committee (Hopeful list)
+## Programme Committee 
 
  - [Martin Andrews](http://mdda.net), Red Cat Labs
+ - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
+ - Shamil Chollampatt,	Rakuten Institute of Technology
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
+ - Steve DeNeefe,	SDL
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Michael Wayne Goodman](https://linguistics.washington.edu/people/michael-wayne-goodman), University of Washington
@@ -143,12 +146,14 @@ Organizers:
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
+ - Varun Kumar,	Amazon Alexa
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
+ - Tommi A Pirinen,	University of Hamburg
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
@@ -168,28 +173,40 @@ Organizers:
 
 
 <!--
-## Workshop Structure
-## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
+# Contacted, have not replied yet (2020)
 
-To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
--->
+Karin Sim Smith, Lingo24
+Tilahun Abedissa,	Addis Ababa University
+Geeticka Chauhan,	Massachusetts Institute of Technology
+Anca Dumitrache,	FD Mediagroep
+Eunsol Choi,	University of Washington
+Teresa Lynn,	Dublin City University
+Ana Marasović,	Computational Linguistics Department, Heidelberg University
+Pamela Shapiro,	Johns Hopkins University
+Abhilasha Ravichander,	Carnegie Mellon University
+Natalie Schluter,	IT University of Copenhagen
+Aakanksha Naik,	Carnegie Mellon University
+Lucie Flekova,	Amazon Alexa AI
+Ivan Vladimir, Meza Ruiz	IIMAS/UNAM
+Marzieh Fadaee,	University of Amsterdam
+Ebube Chuba,	IBM
+Shilpa Suresh,	  
+Erika Varis Doggett,	Watt Disney Studios
+Jude Khouja,	Microsoft
+Katarzyna Podlaska,	Samsung R&D
+Chris Emmery,	Tilburg University, University of Antwerp
+Kelvin Cohen,	University of Boulder, Colorado
+Jade Z. Abbott,	Retro Rabbit
+Laura Martinus,	Explore AI
 
-<!--
-Verbal Endorsements
-====
+Tim Baldwin
+Yoav Goldberg
+Emily Bender
+Leon Derczynski
 
-Exclude to avoid conflict of interest
 
- - Tim Baldwin (COLING workshop chair) https://twitter.com/eltimster/status/904928371603320832
- - Yoav Goldberg (COLING workshop co-chair)
- - Emily Bender (COLING PC co-chair) https://twitter.com/emilymbender/status/904870675722027008
- - Leon Derczynski (COLING PC co-chair)
 
--->
-
-<!--
-
-# Contacted hasn't replied
+# Contacted hasn't replied (2018)
 
  - Paul Boersma (Praat)
  - Kalina Bontcheva
@@ -202,15 +219,7 @@ Exclude to avoid conflict of interest
  - Marcin Junczys-Dowmunt
 
 
-# Liling will try contacting
- - Josef van Genabith
-
-# Newly contacted, hasn't replied (to send follow-up on 23.10.17)
- - Dan Flickinger
- - Michael Wayne Goodman
- - Nathan Schneider
-
-# Hasn't contacted
+# Hasn't contacted (2018)
  - Andreas Kirkedal
  - Nikolay Shmyrev (cmu-sphinx)
  - Dario Taraborelli
@@ -219,7 +228,15 @@ Exclude to avoid conflict of interest
  - David Weenink  (Praat)
  - Torsten Zesch
 
-# Replied but no clear answer (worth recontacting)
+# Replied but no clear answer (2018, worth recontacting)
  - Daniel Povey (Kaldi)
 
 -->
+
+<!--
+## Workshop Structure
+## Let's hide the workshop structure (for now), we'll re-publish this after the acceptance.
+
+To promote closer interaction, all accepted publications will be presented in the poster format and be required to give a 1 slide (90 seconds) introduction of their work at the beginning of the session. For the rest of the workshop, invited talks will be given by developers and maintainers of prominent NLP-OSS projects and we plan to close the workshop with a panel session with the invited speakers and the audience of the workshop.
+-->
+
