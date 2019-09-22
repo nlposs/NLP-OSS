@@ -58,12 +58,11 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - Teaching NLP with OSS
    - NLP-OSS in the industry
 
-## Invited Speakers (Confirmed, depends on availability of speakers after conference assignment)
+## Invited Speakers
 
-
-- [Thomas Wolf](https://thomwolf.io), Huggingface
 - [Chip Huyen](https://huyenchip.com), NVIDIA
 - [Spencer Kelly](https://spencermounta.in/), Freelance Developer
+- [Thomas Wolf](https://thomwolf.io), Huggingface
 
 ## Demographic Diversity
 
@@ -118,7 +117,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
-     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/) and the DSL shared task.
+     Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
 
 
 ## Programme Committee 
