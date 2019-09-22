@@ -71,6 +71,8 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 **PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to ~30 invitations to WiNLP members); if they have not replied and accepted the invitation, we have not listed in the PC list below. 
 
 **Invited speakers**: Our invited speakers come from various backgrounds and have been involved with NLP open source development and may not have been that active within the ACL community. We strive to continue the tradition of inviting a diverse range of speakers to talk about NLP OSS to talk about a balance between OSS development, scientific contribution and community building around OSS. All three speakers have confirmed their participation to give an invited talk (depending on their availability after the exact conference assignment). 
+
+To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https://github.com/nlposs/NLP-OSS/blob/master/Code-of-Conduct.md) for the NLP-OSS workshop and community and we would put up the Code of Conduct on the NLP-OSS 2020 website once we have sought advice from the ACL Professional Conduct Committee.
  
 ## Misc
  
