@@ -134,7 +134,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - Steve DeNeefe,	SDL
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
- - [Michael Wayne Goodman](https://linguistics.washington.edu/people/michael-wayne-goodman), Nanyang Technological University
+ - [Michael Wayne Goodman](https://goodmami.org/), Nanyang Technological University
  - [Arwen Twinkle Griffioen](https://www.linkedin.com/in/arwengriffioen/), Zendesk Inc.
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
  - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
