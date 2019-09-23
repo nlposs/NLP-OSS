@@ -154,7 +154,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
- - [Vlad Niculae](http://vene.ro), Cornell CIS
+ - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),	University of Hamburg
  - [Aline Paes](https://uff.academia.edu/AlinePaes),	Universidade Federal Fluminense
