@@ -126,6 +126,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
+ - [Daniel Braun](http://wwwmatthes.in.tum.de), Technical University of Munich
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
  - Geeticka Chauhan,	Massachusetts Institute of Technology
@@ -166,6 +167,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - Shilpa Suresh, Independent Researcher
+ - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
