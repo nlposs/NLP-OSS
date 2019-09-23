@@ -127,11 +127,14 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Fred Blain](https://fredblain.org), University of Sheffield
  - James Bradbury, Salesforce Research
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
+ - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
  - Geeticka Chauhan,	Massachusetts Institute of Technology
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - Shamil Chollampatt,	Rakuten Institute of Technology
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Steve DeNeefe,	SDL
+ - [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
+ - [Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Michael Wayne Goodman](https://goodmami.org/), Nanyang Technological University
@@ -150,7 +153,8 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
- - Tommi A Pirinen,	University of Hamburg
+ - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),	University of Hamburg
+ - [Aline Paes](https://www.alinepaes.com.br/),	Universidade Federal Fluminense
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
