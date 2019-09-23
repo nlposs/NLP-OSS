@@ -130,6 +130,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
  - Geeticka Chauhan,	Massachusetts Institute of Technology
+ - Sharat Chikkerur,	Microsoft
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - Shamil Chollampatt,	Rakuten Institute of Technology
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
@@ -156,6 +157,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
+ - Yves Peirsman, 	NLP Town
  - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),	University of Hamburg
  - [Aline Paes](https://uff.academia.edu/AlinePaes),	Universidade Federal Fluminense
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
