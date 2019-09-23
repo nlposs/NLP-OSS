@@ -154,7 +154,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Vlad Niculae](http://vene.ro), Cornell CIS
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),	University of Hamburg
- - [Aline Paes](https://www.alinepaes.com.br/),	Universidade Federal Fluminense
+ - [Aline Paes](https://uff.academia.edu/AlinePaes),	Universidade Federal Fluminense
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
