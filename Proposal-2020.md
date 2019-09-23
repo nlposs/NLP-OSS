@@ -149,6 +149,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - Varun Kumar,	Amazon Alexa
  - [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/), Carnegie Mellon University
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
+ - Laura Martinus, Explore Data Science Academy
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
