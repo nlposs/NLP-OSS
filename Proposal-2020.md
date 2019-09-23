@@ -158,7 +158,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
  - [David Przybilla](http://alejandro.pictures), Idio
  - [Amandalynne Paullada](https://linguistics.washington.edu/people/amandalynne-paullada), University of Washington
- - [Delip Rao](http://deliprao.com), Joostware AI Research Corp
+ - [Delip Rao](http://deliprao.com), AI Foundation
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
@@ -202,7 +202,6 @@ Laura Martinus,	Explore AI
 
 Yoav Goldberg
 Emily Bender
-Leon Derczynski
 
 
 
