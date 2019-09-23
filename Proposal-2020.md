@@ -144,6 +144,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
+ - [Thomas Kober](https://www.inf.ed.ac.uk/people/staff/Thomas_Kober.html), University of Edinburgh
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - Varun Kumar,	Amazon Alexa
@@ -163,6 +164,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Delip Rao](http://deliprao.com), AI Foundation
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/), National University of Mexico 
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
@@ -172,6 +174,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
+ - [Svitlana Vakulenko](svakulenk0.github.io), Vienna University of Economics and Business
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
