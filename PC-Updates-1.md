@@ -1,6 +1,6 @@
-Dear Program Committee Members and Invited Speakers, 
+Dear Program Committee Members, 
 
-Thank you all again for accepting our invitation to the NLP-OSS 2020 Program Committee and/or NLP-OSS 2020 invited talk speakers! 
+Thank you all again for accepting our invitation to the NLP-OSS 2020 Program Committee! 
 
 Some updates on the NLP-OSS organization as we proceed to submit our proposal for the ACL 2020 [Call for Worksop Proposal](https://acl2020.org/calls/workshops/).
 
