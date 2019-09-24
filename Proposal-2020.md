@@ -113,7 +113,8 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
      Nelson Liu is a computer science Ph.D. student at Stanford, where he works in the Stanford NLP Group. He has contributed to the AllenNLP, torchtext, and scikit-learn projects at various points in time.
      
  - [Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
-Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
+ 
+    Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
 
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
