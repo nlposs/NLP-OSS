@@ -108,9 +108,13 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
 
      Dmitrijs Milajevs is a data scientist at KMPG. Previously, he evaluated information retrieval systems at National Institute of Standards and Technology (NIST). He has defended a Ph.D. thesis on evaluation of compositional models in distributional semantics.
 
- - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Natural Language Processing Group, Stanford University.
+ - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Stanford University.
 
-     Nelson Liu is a Ph.D. student at Stanford NLP Group working on generalizability and robustness of natural language processing systems. He has been an active contributor to AllenNLP and made contributions to Scikit-Learn during his participation in Google Summer of Code Developer. He participated in the first edition of NLP-OSS workshop and is now organizing his first *ACL workshop!
+     Nelson Liu is a computer science Ph.D. student at Stanford, where he works in the Stanford NLP Group. He has contributed to the AllenNLP, torchtext, and scikit-learn projects at various points in time.
+     
+ - [Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
+Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
+
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
@@ -119,6 +123,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
 
 ## Programme Committee 
 
+ - [Tareq Abdo Abdullah Al-Moslmi](https://www.uib.no/en/persons/Tareq.Abdo.Abdullah.Al-Moslmi),  University of Bergen
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - Tim Baldwin, University of Melbourne
@@ -153,6 +158,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Laura Martinus, Explore Data Science Academy
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
+ - Ehsan Khoddam Mohammadi, RELX
  - [Ines Montani](https://ines.io), Explosion AI
  - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
