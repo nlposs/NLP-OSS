@@ -135,7 +135,6 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Daniel Braun](http://wwwmatthes.in.tum.de), Technical University of Munich
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
- - Geeticka Chauhan,	Massachusetts Institute of Technology
  - Sharat Chikkerur,	Microsoft
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - Shamil Chollampatt,	Rakuten Institute of Technology
