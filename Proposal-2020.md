@@ -156,12 +156,12 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - Varun Kumar,	Amazon Alexa
  - [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/), Carnegie Mellon University
+ - [Sandya Mannarswamy](https://scholar.google.co.in/citations?user=i27nd3oAAAAJ&hl=en), Independent Researcher
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Laura Martinus, Explore Data Science Academy
  - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - Ehsan Khoddam Mohammadi, RELX
  - [Ines Montani](https://ines.io), Explosion AI
- - [Andreas Müller](http://amueller.github.io), Columbia University
  - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
  - Yves Peirsman, 	NLP Town
@@ -173,6 +173,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Delip Rao](http://deliprao.com), AI Foundation
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - [Mohd Sanad Zaki Rizvi](https://www.linkedin.com/in/mohd-sanad-zaki-rizvi-0238b5a6/), Analytics Vidhya
  - [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/), National University of Mexico 
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
@@ -180,7 +181,6 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - Shilpa Suresh, Independent Researcher
  - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
- - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - [Svitlana Vakulenko](svakulenk0.github.io), Vienna University of Economics and Business
