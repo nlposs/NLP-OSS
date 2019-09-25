@@ -177,6 +177,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Mohd Sanad Zaki Rizvi](https://www.linkedin.com/in/mohd-sanad-zaki-rizvi-0238b5a6/), Analytics Vidhya
  - [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/), National University of Mexico 
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
+ - [Micah Shlain](https://www.linkedin.com/in/micah-shlain-52254323), Allen Institute for Artificial Intelligence
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
