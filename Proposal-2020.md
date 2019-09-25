@@ -128,6 +128,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - Tim Baldwin, University of Melbourne
+ - [Marcel Bollmann](), 
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
