@@ -6,7 +6,7 @@ Some updates on the NLP-OSS organization as we proceed to submit our proposal fo
 
  - Firstly, we welcome Nelson Liu (Stanford University) and Geeticka Chauhan (Massachusetts Institute of Technology) as our new co-organizers for the workshop. They share the same passion for opens source, experimental replicability and sustainability in the NLP. 
  
- - We thank all PC members who had been on the committee in 2018 and continued to support the workshop in 2020. If we haven't hear from you to step down from the PC role, we had automatically add you in as part of the PC in NLP-OSS 2020. Also, if you affiliations have changed recently, please do reply to this email and we'll make the changes accordingly for the NLP-OSS 2020 website.
+ - We thank all PC members who had been on the committee in 2018 and continued to support the workshop in 2020. If you affiliations have changed recently and it's not reflected correctly on https://github.com/nlposs/NLP-OSS/blob/master/Proposal-2020.md, please do reply to this email and we'll make the changes accordingly for the NLP-OSS 2020 website. If we haven't hear from you to step down from the PC role, we had automatically add you in as part of the PC in NLP-OSS 2020. *However, we do encourage you to acknowledge the invitation so that we can plan the review assignments appropriately.*
  
  - We welcome new PC members from our fellow PC members' and co-organizers contact as well as new invitations extended to the Widening NLP community through the [BIG directory](http://www.winlp.org) as well as our shortlisted members whom have expressed interest through our [proposal survey](https://forms.gle/Ln9icghRaaLcsnPAA).
  
@@ -24,7 +24,9 @@ Here's some logistically updates:
  
  - We'll most probably open a slack page for all PCs (after the proposal results) and invited speakers so that you can leave messages and have a direct line to reach us (organizers) on issues/topics related to the workshop.
  
-We will give you another update on more details after the results of the proposal. Keep in touch!
+We will give you another update on more details after the results of the proposal after 20 Oct 2019. 
+
+Keep in touch!
 
 Best Regards,
 NLP-OSS Organizers
