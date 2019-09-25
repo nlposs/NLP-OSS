@@ -61,7 +61,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 ## Demographic Diversity
 
-**Organizers:** We have 4 organizers with representation from industrial NLP/ML labs, consultancy labs and academic research.  
+**Organizers:** We have 6 organizers with representation from industrial NLP/ML labs, consultancy labs and academic research.  
 
 **PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to ~30 invitations to WiNLP members); if they have not replied and accepted the invitation, we have not listed in the PC list below. 
 
