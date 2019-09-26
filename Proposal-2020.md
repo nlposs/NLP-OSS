@@ -128,7 +128,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Martin Andrews](http://mdda.net), Red Cat Labs
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - Tim Baldwin, University of Melbourne
- - [Marcel Bollmann](), 
+ - [Marcel Bollmann](https://marcel.bollmann.me/), University of Copenhagen
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
@@ -180,6 +180,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Micah Shlain](https://www.linkedin.com/in/micah-shlain-52254323), Allen Institute for Artificial Intelligence
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
+ - [Steve Sloto](https://www.linkedin.com/in/ssloto/), Amazon Web Services
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - Shilpa Suresh, Independent Researcher
  - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
