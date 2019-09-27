@@ -151,6 +151,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
  - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
+ - [David M. Howcroft](https://davehowcroft.com/), 
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - [Thomas Kober](https://www.inf.ed.ac.uk/people/staff/Thomas_Kober.html), University of Edinburgh
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
@@ -160,7 +161,6 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Sandya Mannarswamy](https://scholar.google.co.in/citations?user=i27nd3oAAAAJ&hl=en), Independent Researcher
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
  - Laura Martinus, Explore Data Science Academy
- - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
  - Ehsan Khoddam Mohammadi, RELX
  - [Ines Montani](https://ines.io), Explosion AI
  - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
@@ -181,6 +181,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
  - [Steve Sloto](https://www.linkedin.com/in/ssloto/), Amazon Web Services
+ - [Karin Sim Smith](), University of Sheffield
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - Shilpa Suresh, Independent Researcher
  - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
