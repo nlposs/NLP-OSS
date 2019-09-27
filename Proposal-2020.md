@@ -142,8 +142,10 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Steve DeNeefe,	SDL
  - [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
+ - [Anca Dumitrache](http://ancad.ro/),	FD Mediagroep
  - Gérard Dupont, Airbus
  - [Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University
+ - [Marzieh Fadaee](https://staff.fnwi.uva.nl/m.fadaee/), University of Amsterdam
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Michael Wayne Goodman](https://goodmami.org/), Nanyang Technological University
