@@ -126,6 +126,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
 
  - [Tareq Abdo Abdullah Al-Moslmi](https://www.uib.no/en/persons/Tareq.Abdo.Abdullah.Al-Moslmi),  University of Bergen
  - [Martin Andrews](http://mdda.net), Red Cat Labs
+ - [Eleftherios Avramidis](), Deutsches Forschungszentrum für Künstliche Intelligenz
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - Tim Baldwin, University of Melbourne
  - [Marcel Bollmann](https://marcel.bollmann.me/), University of Copenhagen
@@ -154,6 +155,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
  - [David M. Howcroft](https://davehowcroft.com/), 
+ - [Fabio Kepler](), Unbabel
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
  - [Thomas Kober](https://www.inf.ed.ac.uk/people/staff/Thomas_Kober.html), University of Edinburgh
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
@@ -191,6 +193,7 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
  - [Svitlana Vakulenko](svakulenk0.github.io), Vienna University of Economics and Business
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
+ - [Moshe Wasserblat](), Intel Corporation 
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
