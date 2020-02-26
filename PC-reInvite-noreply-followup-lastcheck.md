@@ -8,7 +8,9 @@ We have sent you an invite to the 2020 workshop previously but we haven't heard 
 
 We would be grateful if you could confirm your participation in the committee by replying to this email or post a comment on https://github.com/nlposs/NLP-OSS/issues/19. **If you have change your affiliations recently, please do reply to this email** and we'll make the changes accordingly for the NLP-OSS 2020 website.
 
-As a committee member, you would help us to review paper and promote the workshop by encouraging submissions and circulating information. To avoid missing review deadlines and empty reviews, we would remove you from the PC list if there's not confirmation by 03 March 2020. In the event that you are unable to commit to the workshop PC, we understand that there are other commitments that you may be having but if you would like to keep in touch or be removed from our mailing list please do reply to this email to indicate your contact preferences. 
+As a committee member, you would help us to review paper and promote the workshop by encouraging submissions and circulating information. 
+
+To avoid missing review deadlines and empty reviews, **we would remove you from the PC list if there's not confirmation by 03 March 2020.** In the event that you are unable to commit to the workshop PC, we understand that there are other commitments that you may be having but if you would like to keep in touch or be removed from our mailing list please do reply to this email to indicate your contact preferences. 
 
 Please do give us any feedback about the workshop if you have any. Or any concerns about commitment as a PC member. 
 
