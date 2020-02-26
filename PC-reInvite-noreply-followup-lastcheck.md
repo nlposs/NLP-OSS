@@ -10,7 +10,7 @@ We would be grateful if you could confirm your participation in the committee by
 
 As a committee member, you would help us to review paper and promote the workshop by encouraging submissions and circulating information. 
 
-To avoid missing review deadlines and empty reviews, **we would remove you from the PC list if there's not confirmation by 03 March 2020.** In the event that you are unable to commit to the workshop PC, we understand that there are other commitments that you may be having but if you would like to keep in touch or be removed from our mailing list please do reply to this email to indicate your contact preferences. 
+To avoid missing review deadlines and empty reviews, **we would remove you from the PC list if we do not hear from you by 03 March 2020.** In the event that you are unable to commit to the workshop PC, we understand that there are other commitments that you may be having but if you would like to keep in touch or be removed from our mailing list please do reply to this email to indicate your contact preferences. 
 
 Please do give us any feedback about the workshop if you have any. Or any concerns about commitment as a PC member. 
 
