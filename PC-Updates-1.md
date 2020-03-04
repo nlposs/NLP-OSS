@@ -24,8 +24,7 @@ Administrative matters:
 
 If you know of any potential work that is relevant to the workshop, we hope that you can help to encourage submissions and/or participation to the workshop to your local community. We'll be sending out the first call for paper very soon!
 
- -  
 Keep in touch!
 
-Best Regards,
+Best Regards, <br>
 NLP-OSS Organizers
