@@ -8,9 +8,9 @@ Some updates on the NLP-OSS organization as we proceed to send out the Call for 
 
  - Firstly, we welcome Nelson Liu (Stanford University) and Geeticka Chauhan (Massachusetts Institute of Technology) as our new co-organizers for the workshop. They share the same passion for opens source, experimental replicability and sustainability in the NLP. 
  
- - We welcome new PC members from our fellow PC members' and co-organizers contact as well as new invitations extended to the Widening NLP community through the [BIG directory](http://www.winlp.org) as well as our shortlisted members whom have expressed interest through our [proposal survey](https://forms.gle/Ln9icghRaaLcsnPAA).
+ - We welcome new PC members from our fellow PC members' and co-organizers contact as well as new invitations extended to the Widening NLP community through the [BIG directory](http://www.winlp.org) as well as our shortlisted members whom have expressed interest through our proposal survey.
  
- - We are excited to have all 3 invited speakers, Chip Huyen (from NVIDIA, working on varous NLP projects ranging from the SOTAWHAT, LazyNLP, OpenSeq2Seq, Nemo), Spencer Kelly (creator of the [Compromise Javascript NLP library](https://github.com/spencermountain/compromise)) and Thomas Wolf (from Huggingface working on the various open source libraries including the popular PyTorch Transformers).
+ - We are excited to have all 3 invited speakers, Chip Huyen (previously from NVIDIA, working on varous NLP projects ranging from the SOTAWHAT, LazyNLP, OpenSeq2Seq, Nemo), Spencer Kelly (creator of the [Compromise Javascript NLP library](https://github.com/spencermountain/compromise)) and Thomas Wolf (from Huggingface working on the various open source libraries including the popular PyTorch Transformers).
 
 <!-- 
  - We have drafted a code of conduct on top of [ACL's anti-harassment policy](https://github.com/nlposs/NLP-OSS/blob/master/Code-of-Conduct.md). We are waiting for the ACL Professional Conduct Committee to get back to us on whether the code of conduct is valid for the NLP-OSS workshop and community. 
