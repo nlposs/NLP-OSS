@@ -4,7 +4,7 @@
 
 *Workshop for NLP Open Source Software (NLP-OSS)*
 
-11 or 12 Nov 2018, Co-located with EMNLP 2020
+11 or 12 Nov 2020, Co-located with EMNLP 2020
 
 https://nlposs.github.io/2020
 
