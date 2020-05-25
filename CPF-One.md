@@ -1,12 +1,17 @@
 (apologies for cross-posting) 
 
 ----------------------------------------------------------------
+
 *Workshop for NLP Open Source Software (NLP-OSS)*
+
 11 or 12 Nov 2018, Co-located with EMNLP 2020
+
 https://nlposs.github.io/2020
 
 Deadline for Long and Short Paper submission: 05 August 2020 
+
 (23:59, GMT-11)
+
 ----------------------------------------------------------------
 
 You have used NLP open source tools and bore grievances but found the solution after hours of coffee and computer staring. Share that at NLP-OSS and suggest how open source could change for the better (e.g. best practices, documentation, API design etc.)
@@ -32,16 +37,21 @@ P/S:
 ====
 
 ----------------------------------------------------------------
+
 *Workshop for NLP Open Source Software (NLP-OSS)*
+
 11 or 12 Nov 2018, Co-located with EMNLP 2020
+
 https://nlposs.github.io/2020
 
 Deadline for Long and Short Paper submission: 05 August 2020 
+
 (23:59, GMT-11)
+
 ----------------------------------------------------------------
 
 The Second Workshop for NLP Open Source Software (NLP-OSS) will be co-located 
-with EMNLP 2020 at Punta Cana, Dominican Republic on 12 Nov 2020. 
+with EMNLP 2020 on 12 Nov 2020. 
 
 Focusing more on the social and engineering aspect of NLP software 
 and less on scientific novelty or state-of-art models, the Workshop for NLP-OSS 
