@@ -5,7 +5,7 @@
 11 or 12 Nov 2018, Co-located with EMNLP 2020
 https://nlposs.github.io/2020
 
-Deadline for Long and Short Paper submission: 01 July 2020 
+Deadline for Long and Short Paper submission: 05 August 2020 
 (23:59, GMT-11)
 ----------------------------------------------------------------
 
@@ -36,7 +36,7 @@ P/S:
 11 or 12 Nov 2018, Co-located with EMNLP 2020
 https://nlposs.github.io/2020
 
-Deadline for Long and Short Paper submission: 01 July 2020 
+Deadline for Long and Short Paper submission: 05 August 2020 
 (23:59, GMT-11)
 ----------------------------------------------------------------
 
