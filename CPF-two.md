@@ -18,9 +18,7 @@ You have used NLP open source tools and bore grievances but found the solution a
 
 You are tired of Zoom sessions at ACL but got inspired to write an open source for a nifty idea you got from ACL 2020. Share what you've built at NLP-OSS and what motivated you other than distracting yourself from attending Zoom QnAs; understanding about motivations of OSS forms a larger understanding of OSS sustainability in general.
 
-You came across an awesome SOTA system on NLP task X that once ruled the F1 score. But now the code is stale and it takes an dinosaur to understand the code. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems. 
-
-You read an NMT paper with SOTA BLEU scores. But now the code is stale and it to understand the code and difficult to reproduce the results. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems. 
+You came across an awesome SOTA system on NLP task X that once ruled the F1 score. But now the code is stale and it to understand the code and difficult to reproduce the results. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems. 
 
 You see this shiny *BERT from a blogpost, tried it to reproduce similar results on a different task and it just doesn't work on your dataset. You did some magic to the code and now it works. Show us how you did it! Though they're small tweaks, well-motivated and empirically test are valid submissions to NLP-OSS. 
 
