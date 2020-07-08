@@ -101,6 +101,13 @@ contribution and (iii) NLP-OSS case studies.
    
 Submission should be formatted according to the [EMNLP 2020 templates](https://2020.emnlp.org/call-for-papers)
 
+Due to the nature of open source software, we find it a bit tricky to "anonymize" "open source".
+For this reason, we don't require your publication to be anonymous.
+
+However, if you prefer your paper to be anonymized, please mask any identifiable phrase with REDACTED.
+
+We have an option setup in softconf so that you can explicitly opt-in / opt-out of anonymity. 
+
 
 ORGANIZERS
 
