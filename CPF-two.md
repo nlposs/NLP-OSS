@@ -89,7 +89,6 @@ contribution and (iii) NLP-OSS case studies.
    - Gaps between existing NLP-OSS
    - Task-generic vs task-specific software
 
-
  - **Case studies**
    - Case studies of how a specific bug is fixed or feature is added
    - Writing wrappers for other NLP-OSS
