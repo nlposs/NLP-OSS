@@ -14,22 +14,21 @@ Deadline for Long and Short Paper submission: 05 August 2020
 
 ----------------------------------------------------------------
 
-You have used NLP open source tools and bore grievances but found the solution after hours of coffee and computer staring. Share that at NLP-OSS and suggest how open source could change for the better (e.g. best practices, documentation, API design etc.)
+You have used NLP open source tools and bore grievances but found the solution after hours of coffee and computer staring. Share that at NLP-OSS and suggest how open source could change for the better (e.g. best practices, documentation, API design, etc.)
 
 You are tired of Zoom sessions at ACL but got inspired to write an open source for a nifty idea you got from ACL 2020. Share what you've built at NLP-OSS and what motivated you other than distracting yourself from attending Zoom QnAs; understanding about motivations of OSS forms a larger understanding of OSS sustainability in general.
 
 You came across an awesome SOTA system on NLP task X that once ruled the F1 score. But now the code is stale and it to understand the code and difficult to reproduce the results. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems. 
 
-You see this shiny *BERT from a blogpost, tried it to reproduce similar results on a different task and it just doesn't work on your dataset. You did some magic to the code and now it works. Show us how you did it! Though they're small tweaks, well-motivated and empirically test are valid submissions to NLP-OSS. 
+You see this shiny *BERT from a blogpost, tried it to reproduce similar results on a different task and it just doesn't work on your dataset. You did some magic to the code and now it works. Show us how you did it! Though they're small tweaks, well-motivated and empirically test is valid submissions to NLP-OSS. 
 
-You have tried 101 NLP tools and there's none that really do what you want. So you wrote your own shiny new package and made it open source. Tell us why your package better than the existing tools, how did you design the code? Is it going to be a one time thing? Or would you like to see thousands of people using it?
+You have tried 101 NLP tools and there's none that really does what you want. So you wrote your shiny new package and made it open source. Tell us why your package better than the existing tools, how did you design the code? Is it going to be a one-time thing? Or would you like to see thousands of people using it?
 
-You are tired of your processing routine of using bash to call python to call perl and then output to a file that you use shell commands to munge the data. So you wrote a better data flow system to pipeline the task. Tell us why your package better than the existing tools, how did you design the code? Is it going to be a one time thing? Or would you like to see thousands of people using it?
+You are tired of your processing routine of using bash to call Python to call Perl and then output to a file that you use shell commands to munge the data. So you wrote a better data flow system to pipeline the task. Tell us why your package better than the existing tools, how did you design the code? Is it going to be a one-time thing? Or would you like to see thousands of people using it?
 
 At last, you've found the avenue to air these issues in an academic platform at the NLP-OSS workshop!!! 
 
 Sharing your experiences, suggestions and analysis from/of NLP-OSS 
-
 
 P/S:
 
@@ -68,7 +67,7 @@ contribution and (iii) NLP-OSS case studies.
  - **Software Development**
    - Designing and developing NLP-OSS
    - Licensing issues in NLP-OSS
-   - Backwards compatibility and stale code in NLP-OSS
+   - Backward compatibility and stale code in NLP-OSS
    - Growing, maintaining and motivating an NLP-OSS community
    - Best practices for NLP-OSS documentation and testing
    - Contribution to NLP-OSS without coding
