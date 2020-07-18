@@ -43,7 +43,7 @@ P/S:
 
 https://nlposs.github.io/2020
 
-Deadline for Long and Short Paper submission: 05 August 2020 
+[EXTENDED] Deadline for Long and Short Paper submission: 19 August 2020 
 
 (23:59, GMT-11)
 
