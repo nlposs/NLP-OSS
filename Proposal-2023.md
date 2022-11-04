@@ -109,6 +109,10 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
  
     Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
 
+ - [Dmitrijs Milajevs](http://zest.id.lv/), Grayscale AI.
+
+     Dmitrijs Milajevs is a data scientist at KMPG. Previously, he evaluated information retrieval systems at National Institute of Standards and Technology (NIST). He has defended a Ph.D. thesis on evaluation of compositional models in distributional semantics.
+
 - [Elijah Rippeth](https://erip.github.io/), University of Maryland.
 
     Elijah Rippeth is Ph.D. student at the University of Maryland in the Department of Computer Science. His work focuses broadly on natural language processing, but with a focus on multilingual NLP, cross-lingual transfer, and machine translation. 
