@@ -127,7 +127,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
 
 
-## Programme Committee 
+## Programme Committee (Confirmed from pre-proposal survey)
 
 - Aakanksha Naik, Allen Institute for Artificial Intelligence
 - Alexander Rush, Cornell, Hugging Face
@@ -153,3 +153,85 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Tommaso Teofili, Roma Tre University
 - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
 - Ziv Litmanovitz, University of Haifa
+
+
+## Programme Committee (To follow up with)
+
+- Abigail See
+- Akiko Eriguchi
+- Amandalynne Paullada
+- Amittai Axelrod
+- Anca Dumitrache
+- Andreas Mueller
+- Arwen Griffioen
+- Brendan O'Connor
+- Carolina Scarton
+- Chris Hokamp
+- Christian Federmann
+- Christopher Manning
+- Dan Simonson
+- David Przybilla
+- David M. Howcroft
+- Delip Rao
+- Denny Britz
+- Diana Maynard
+- Ehsan Khoddam
+- Eleftherios Avramidis
+- Emiel van Miltenburg
+- Emily Dinan
+- Eva Maria Vecchi
+- Fabio Kepler
+- Francis Bond
+- Frédéric Blain
+- Graham Neubig
+- Grzegorz Chrupała
+- Hal Daumé III
+- Ian Soboroff
+- Ignatius Ezeani
+- James Bradbury
+- Jason Baldridge
+- Jiatao Gu
+- Joel Grus
+- Joel Nothman
+- Jon Dehdari
+- Karin Sim Smith
+- Kevin Cohen
+- Kheng Hui Yeo
+- Kyunghyun Cho
+- Maarten van Gompel
+- Madison May
+- Marcel Bollmann
+- Marcos Zampieri
+- Marine Carpuat
+- Mary Ellen Foster
+- Marzieh Fadaee
+- Matt Post
+- Matthew Honnibal
+- Micah Shlain
+- Mohd Sanad Zaki Rizvi
+- Moshe Wasserblat
+- Muthu Kumar Chandrasekaran
+- Nelson F. Liu
+- Paul Pu Liang
+- Philipp Koehn
+- Pontus Stenetorp
+- Rachael Tatman
+- Radim Rehurek
+- Rico Sennrich
+- Sandya Mannarswamy
+- Sang Phan
+- Shamil Chollampatt
+- Sharat Chikkerur
+- Shubhanshu Mishra
+- Stephen Sloto
+- Steven Bethard
+- Svitlana Vakulenko
+- Taku Kudo
+- Tareq Al-Moslmi
+- Tilahun Abedissa Taffa
+- Tomas Mikolov
+- Varun Kumar
+- Vered Shwartz
+- Vlad Niculae
+- Yusuke Miyao
+- Yves Peirsman
