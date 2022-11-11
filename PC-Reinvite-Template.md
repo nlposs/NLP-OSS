@@ -1,6 +1,6 @@
 Dear ____,
 
-Thank you again for being part of the Program Committee in the first edition of Workshop for NLP Open Source Software (NLP-OSS) in 2018/2020. The workshop would not have been possible without your contribution https://nlposs.github.io/!
+Thank you again for being part of the Program Committee in the previous Workshops for NLP Open Source Software (NLP-OSS) in 2018/2020. **The workshop would not have been possible without your contribution!**
 
 We would like to invite you to join the Program Committee for the Workshop for NLP Open Source Software (NLP-OSS) in 2023.
 
@@ -18,7 +18,7 @@ Our proposal would be submitted to one of the four conferences and the workshop 
 | ACL   | Toronto, Canada  | 9-14 July 2023 |
 | EMNLP | Singapore | TBD (after July 2023) |
 
-We would be grateful if you could confirm your participation in the committee by replying to this email or post a comment on https://github.com/nlposs/NLP-OSS/issues/35. We hope that you confirm your participation soon.
+**We would be grateful if you could confirm your participation in the committee by replying to this email or post a comment on https://github.com/nlposs/NLP-OSS/issues/35. We hope that you confirm your participation soon.**
 
 If you have other PC candidates that you would like to recommend for the workshop, please do contact us. 
 
