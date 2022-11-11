@@ -2,13 +2,13 @@ Dear ____,
 
 Thank you again for being part of the Program Committee in the first edition of Workshop for NLP Open Source Software (NLP-OSS) in 2018/2020. The workshop would not have been possible without your contribution https://nlposs.github.io/!
 
-We would like to invite you to join the Program Committee for the Workshop for NLP Open Source Software (NLP-OSS) in 2020.
+We would like to invite you to join the Program Committee for the Workshop for NLP Open Source Software (NLP-OSS) in 2023.
 
 The NLP-OSS workshop is unlike the normal scientific track of academic workshop, our primary objective of this workshop is to further the sharing of insights on the engineering and community aspects of creating, developing and maintaining NLP open source software (OSS) which we seldom talk about in scientific publications. The secondary goal is to promote synergies between different open source projects and encourage cross-software comparisons.
 
 Your experience with various NLP OSS is very valuable to the workshop that could be shared with the open source NLP/MT communities.
 
-The committee comprises of experts like yourself with notable OSS contribution to ML/NLP projects. As a committee member, you can help us to review paper and promote the workshop by encouraging submissions and circulating information. Additionally, we have chosen to openly write the workshop proposal and website; we welcome contributions from you and anyone in the open community https://github.com/nlposs/NLP-OSS. 
+The committee comprises of experts like yourself with notable OSS contribution to ML/NLP projects. As a committee member, you can help us to review paper and promote the workshop by encouraging submissions and circulating information. Additionally, we have chosen to openly write the workshop proposal and website; we welcome contributions from you and anyone in the open community https://github.com/nlposs/NLP-OSS/blob/master/Proposal-2023.md
 
 Our proposal would be submitted to one of the four conferences and the workshop would be co-located with either:
 
