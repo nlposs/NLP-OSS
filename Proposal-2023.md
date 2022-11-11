@@ -117,7 +117,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
     Elijah Rippeth is Ph.D. student at the University of Maryland in the Department of Computer Science. His work focuses broadly on natural language processing, but with a focus on multilingual NLP, cross-lingual transfer, and machine translation. 
 
-- [Jeremy Gwinnup](http://zest.id.lv/), Air Force Research Laboratory.
+- Jeremy Gwinnup, Air Force Research Laboratory.
 
      Jeremy Gwinnup is a Research Computer Scientist in the Airman Systems Directorate of the Air Force Research Laboratory located in Dayton, Ohio USA. His research focuses on multimodal machine translation and is the topic of his studies as a Doctor of Engineering student at Johns Hopkins University.
 
@@ -126,7 +126,8 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
      Liling is a research scientist at Rakuten Institute of Technology working on Machine Translation and developing applications using language technologies. He has been actively involved in corpora creation/maintenance, Asian NLP and machine translation. He co-organized the [Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2014-16)](http://ttg.uni-saarland.de/vardial2016/).
 
-
+ 
+=======
 ## Programme Committee (Confirmed from pre-proposal survey)
 
 - Aakanksha Naik, Allen Institute for Artificial Intelligence
@@ -235,3 +236,4 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Vlad Niculae
 - Yusuke Miyao
 - Yves Peirsman
+
