@@ -153,6 +153,16 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Tommaso Teofili, Roma Tre University
 - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
 - Ziv Litmanovitz, University of Haifa
+- Diana Maynard, University of Sheffield
+- Marzieh Fadaee, Zeta Alpha Vector
+- Mohd Sanad Zaki Rizvi, University of Edinburgh 
+- Vlad Niculae, University of Amsterdam
+- Aitor Soroa, HiTZ Center - Ixa, University of the Basque Country UPV/EHU
+- Sagnik Ray Choudhury, University of Michigan
+- Anish Mohan, Nvidia
+- Jörg Tiedemann, University of Helsinki
+- Tenzin Bhotia, Delhi Technological University
+- Zaid Alyafeai, King Fahd University of Petroleum and Minerals
 
 
 ## Programme Committee (Previous PC, To follow up with)
@@ -174,7 +184,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - David M. Howcroft
 - Delip Rao
 - Denny Britz
-- Diana Maynard
 - Ehsan Khoddam
 - Eleftherios Avramidis
 - Emiel van Miltenburg
@@ -204,11 +213,9 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Marcos Zampieri
 - Marine Carpuat
 - Mary Ellen Foster
-- Marzieh Fadaee
 - Matt Post
 - Matthew Honnibal
 - Micah Shlain
-- Mohd Sanad Zaki Rizvi
 - Moshe Wasserblat
 - Muthu Kumar Chandrasekaran
 - Nelson F. Liu
@@ -232,7 +239,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Tomas Mikolov
 - Varun Kumar
 - Vered Shwartz
-- Vlad Niculae
 - Yusuke Miyao
 - Yves Peirsman
 
