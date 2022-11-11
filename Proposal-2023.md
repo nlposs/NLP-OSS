@@ -155,7 +155,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Ziv Litmanovitz, University of Haifa
 
 
-## Programme Committee (To follow up with)
+## Programme Committee (Previous PC, To follow up with)
 
 - Abigail See
 - Akiko Eriguchi
