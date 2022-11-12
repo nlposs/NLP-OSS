@@ -149,7 +149,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Shilpa Suresh, Harvard Medical School
 - Steve DeNeefe, RWS Language Weaver
 - Taha Zerrouki, Bouira University Algeria
-- Thomas Kober, Zalando
+- Thomas Kober, Zalando SE
 - Tommaso Teofili, Roma Tre University
 - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
 - Ziv Litmanovitz, University of Haifa
@@ -167,6 +167,9 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Sina Ahmadi, George Mason University
 - Phu Mon Htut, AWS AI Labs
 - Dave Howcroft, Edinburgh Napier University
+- Steven Bethard,  University of Arizona
+- Won Ik Cho, Seoul National University
+- Raeid Saqur, Princeton University
 
 
 ## Programme Committee (Previous PC, To follow up with)
@@ -234,7 +237,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Sharat Chikkerur
 - Shubhanshu Mishra
 - Stephen Sloto
-- Steven Bethard
 - Svitlana Vakulenko
 - Taku Kudo
 - Tareq Al-Moslmi
