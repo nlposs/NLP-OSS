@@ -163,6 +163,10 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Jörg Tiedemann, University of Helsinki
 - Tenzin Bhotia, Delhi Technological University
 - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
+- Jack Morris, Cornell University
+- Sina Ahmadi, George Mason University
+- Phu Mon Htut, AWS AI Labs
+- Dave Howcroft, Edinburgh Napier University
 
 
 ## Programme Committee (Previous PC, To follow up with)
@@ -181,7 +185,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Christopher Manning
 - Dan Simonson
 - David Przybilla
-- David M. Howcroft
 - Delip Rao
 - Denny Britz
 - Ehsan Khoddam
