@@ -148,12 +148,14 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Gérard Dupont, Mavenoid
 - Jack Morris, Cornell University
 - Jörg Tiedemann, University of Helsinki
+- Karin Sim, Language Weaver
 - Kevin Cohen, University of Colorado
 - Lane Schwartz, University of Alaska Fairbanks
 - Leo Boytsov, Amazon
 - Lucy Park, Upstage
 - Maarten van Gompel, Radboud University
 - Maheshwar Ghankot, Indira Gandhi National Open University
+- Mallika Singh, Harvard Medical School
 - Marco Cognetta, Tokyo Institute of Technology, Google
 - Marzieh Fadaee, Zeta Alpha Vector
 - Matt Post, Microsoft
