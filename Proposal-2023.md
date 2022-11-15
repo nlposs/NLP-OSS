@@ -62,8 +62,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
    - Teaching NLP with OSS
    - NLP-OSS in the industry
 
-## Invited Speakers
-
+<!-- ## Invited Speakers -->
 
 
 ## Demographic Diversity
