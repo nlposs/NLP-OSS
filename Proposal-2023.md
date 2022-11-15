@@ -130,55 +130,54 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 ## Programme Committee (Confirmed from pre-proposal survey)
 
 - Aakanksha Naik, Allen Institute for Artificial Intelligence
+- Aitor Soroa, HiTZ Center - Ixa, University of the Basque Country UPV/EHU
 - Alexander Rush, Cornell, Hugging Face
 - Aline   Paes, Universidade Federal Fluminense
+- Amittai Axelrod, Apple AI
+- Anish Mohan, Nvidia
 - Arun Balajiee Lekshmi Narayanan, University of Pittsburgh
 - Atnafu lambebo Tonja, Instituto Politécnico Nacional
 - Atul Kr. Ojha, University of Galway
 - Cassandra Jacobs, University at Buffalo
+- Christoph Teichmann, Bloomberg LP
 - Daniel  Braun, University of Twente
+- Dave Howcroft, Edinburgh Napier University
+- Diana Maynard, University of Sheffield
 - Flammie a Pirinen, University of Norway
 - Gérard Dupont, Mavenoid
+- Jack Morris, Cornell University
+- Jörg Tiedemann, University of Helsinki
+- Kevin Cohen, University of Colorado
 - Lane Schwartz, University of Alaska Fairbanks
 - Leo Boytsov, Amazon
 - Lucy Park, Upstage
+- Maarten van Gompel, Radboud University
 - Maheshwar Ghankot, Indira Gandhi National Open University
 - Marco Cognetta, Tokyo Institute of Technology, Google
+- Marzieh Fadaee, Zeta Alpha Vector
+- Matt Post, Microsoft
+- Micah Shlain, Allen Institute for Artificial Intelligence 
 - Michael Wayne Goodman, LivePerson, Inc.
+- Mohd Sanad Zaki Rizvi, University of Edinburgh 
 - Ogundepo Odunayo, University of Waterloo
+- Pasquale Lisena, EURECOM
+- Phu Mon Htut, AWS AI Labs
+- Raeid Saqur, Princeton University
+- Raphael Tang, Comcast Applied AI 
+- Sagnik Ray Choudhury, University of Michigan
 - Shilpa Suresh, Harvard Medical School
+- Sina Ahmadi, George Mason University
 - Steve DeNeefe, RWS Language Weaver
+- Steven Bethard,  University of Arizona
 - Taha Zerrouki, Bouira University Algeria
+- Tenzin Bhotia, Delhi Technological University
 - Thomas Kober, Zalando SE
+- Tomas Mikolov, Czech Institute of Informatics
 - Tommaso Teofili, Roma Tre University
+- Vlad Niculae, University of Amsterdam
+- Won Ik Cho, Seoul National University
 - Zaid Alyafeai, King Fahd University of Petroleum and Minerals
 - Ziv Litmanovitz, University of Haifa
-- Diana Maynard, University of Sheffield
-- Marzieh Fadaee, Zeta Alpha Vector
-- Mohd Sanad Zaki Rizvi, University of Edinburgh 
-- Vlad Niculae, University of Amsterdam
-- Aitor Soroa, HiTZ Center - Ixa, University of the Basque Country UPV/EHU
-- Sagnik Ray Choudhury, University of Michigan
-- Anish Mohan, Nvidia
-- Jörg Tiedemann, University of Helsinki
-- Tenzin Bhotia, Delhi Technological University
-- Zaid Alyafeai, King Fahd University of Petroleum and Minerals
-- Jack Morris, Cornell University
-- Sina Ahmadi, George Mason University
-- Phu Mon Htut, AWS AI Labs
-- Dave Howcroft, Edinburgh Napier University
-- Steven Bethard,  University of Arizona
-- Won Ik Cho, Seoul National University
-- Raeid Saqur, Princeton University
-- Amittai Axelrod, Apple AI
-- Tomas Mikolov, Czech Institute of Informatics
-- Christoph Teichmann, Bloomberg LP
-- Micah Shlain, Allen Institute for Artificial Intelligence 
-- Raphael Tang, Comcast Applied AI 
-- Pasquale Lisena, EURECOM
-- Maarten van Gompel, Radboud University
-- Matt Post, Microsoft
-- Kevin Cohen, University of Colorado
 
 
 
