@@ -67,11 +67,11 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 ## Demographic Diversity
 
-**Organizers:** We have 4 organizers with representation from industrial NLP/ML labs, government organization and academic institutes.  
+**Organizers:** We have 5 organizers with representation from industrial NLP/ML labs, government organization and academic institutes.  
 
-**PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018 and 20220 editions, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to XXXX invitations to WiNLP members); if they have not replied and accepted the invitation, we have not listed in the PC list below. 
+**PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. We extended our list of PC members in NLP-OSS 2018 edition by inviting a subset of the WiNLP members on the BIG directory and accepted invitees have since joined us in NLP-OSS 2020 and reinvited in the proposed 2023 edition.
 
-**Invited speakers**: Our invited speakers come from various backgrounds and have been involved with NLP open source development and may not have been that active within the ACL community. We strive to continue the tradition of inviting a diverse range of speakers to talk about NLP OSS to talk about a balance between OSS development, scientific contribution and community building around OSS. All three speakers have confirmed their participation to give an invited talk (depending on their availability after the exact conference assignment). 
+<!-- **Invited speakers**: Our invited speakers come from various backgrounds and have been involved with NLP open source development and may not have been that active within the ACL community. We strive to continue the tradition of inviting a diverse range of speakers to talk about NLP OSS to talk about a balance between OSS development, scientific contribution and community building around OSS. All three speakers have confirmed their participation to give an invited talk (depending on their availability after the exact conference assignment). -->
 
  
 ## Misc
