@@ -84,9 +84,9 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 **Preferred Venue**: 
 
- 1. EACL / ACL / EMNLP
- 2. EACL / ACL / EMNLP
- 3. EACL / ACL / EMNLP
+ 1. EMNLP
+ 2. ACL
+ 3. EACL
 
 
 **Previous Workshop**:
@@ -159,6 +159,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Micah Shlain, Allen Institute for Artificial Intelligence 
 - Michael Wayne Goodman, LivePerson, Inc.
 - Mohd Sanad Zaki Rizvi, University of Edinburgh 
+- Nelson F. Liu, Stanford University,
 - Ogundepo Odunayo, University of Waterloo
 - Pasquale Lisena, EURECOM
 - Phu Mon Htut, AWS AI Labs
@@ -218,21 +219,15 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Joel Nothman
 - Jon Dehdari
 - Karin Sim Smith
-- Kevin Cohen
 - Kheng Hui Yeo
 - Kyunghyun Cho
-- Maarten van Gompel
 - Madison May
 - Marcel Bollmann
 - Marcos Zampieri
-- Marine Carpuat
 - Mary Ellen Foster
-- Matt Post
 - Matthew Honnibal
-- Micah Shlain
 - Moshe Wasserblat
 - Muthu Kumar Chandrasekaran
-- Nelson F. Liu
 - Paul Pu Liang
 - Philipp Koehn
 - Pontus Stenetorp
