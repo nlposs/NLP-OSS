@@ -173,6 +173,14 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Amittai Axelrod, Apple AI
 - Tomas Mikolov, Czech Institute of Informatics
 - Christoph Teichmann, Bloomberg LP
+- Micah Shlain, Allen Institute for Artificial Intelligence 
+- Raphael Tang, Comcast Applied AI 
+- Pasquale Lisena, EURECOM
+- Maarten van Gompel, Radboud University
+- Matt Post, Microsoft
+- Kevin Cohen, University of Colorado
+
+
 
 ## Programme Committee (Previous PC, To follow up with)
 
