@@ -170,14 +170,15 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Steven Bethard,  University of Arizona
 - Won Ik Cho, Seoul National University
 - Raeid Saqur, Princeton University
-
+- Amittai Axelrod, Apple AI
+- Tomas Mikolov, Czech Institute of Informatics
+- Christoph Teichmann, Bloomberg LP
 
 ## Programme Committee (Previous PC, To follow up with)
 
 - Abigail See
 - Akiko Eriguchi
 - Amandalynne Paullada
-- Amittai Axelrod
 - Anca Dumitrache
 - Andreas Mueller
 - Arwen Griffioen
@@ -241,7 +242,6 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 - Taku Kudo
 - Tareq Al-Moslmi
 - Tilahun Abedissa Taffa
-- Tomas Mikolov
 - Varun Kumar
 - Vered Shwartz
 - Yusuke Miyao
