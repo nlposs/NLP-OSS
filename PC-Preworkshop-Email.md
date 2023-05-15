@@ -14,7 +14,7 @@ And we would like to highlight the paper review period from **25 August to 01 Oc
 | Paper Reviews Due:  | 01 October 2023  | 
 | Notification of Acceptance:  | 10 October 2023  | 
 | Camera-Ready Version:  | 25 October 2023 | 
-| Workshop: 6 December 2023  | 
+| Workshop: | 6 December 2023  | 
 
 We will be sending out social media and mailing list posts to announce the first CFP in a couple of days. We hope you can help share with your peers, students, and contacts interested in NLP and OSS. We look forward to a fruitful workshop ahead!
 
