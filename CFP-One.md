@@ -21,7 +21,7 @@ You see this shiny GPT from a blogpost, tried it to reproduce similar results on
 
 You have tried 101 NLP tools and there's none that really do what you want. So you wrote your own shiny new package and made it open source. Tell us why your package better than the existing tools, how did you design the code? Is it going to be a one time thing? Or would you like to see thousands of people using it?
 
-You have heard enough of open source LLM and pseudo open source GPT but not enough about how it can be used for your use-case or your commercial product at scale. So you contacted your legal department and they explained to you about how data, model and code licenses work. Sharing the knowledgw with the NLP-OSS community.
+You have heard enough of open source LLM and pseudo open source GPT but not enough about how it can be used for your use-case or your commercial product at scale. So you contacted your legal department and they explained to you about how data, model and code licenses work. Sharing the knowledge with the NLP-OSS community.
 
 You have a position/opinion to share about free vs open vs close source LLMs and have valid arguments, references or survey/data support your position. We would want to hear more about it.
 
