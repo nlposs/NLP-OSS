@@ -48,8 +48,8 @@ Deadline for Long and Short Paper submission: 09 August, 2023
 
 ----------------------------------------------------------------
 
-The Second Workshop for NLP Open Source Software (NLP-OSS) will be co-located 
-with EMNLP 2023 on 05 Dec 2023.
+The Third Workshop for NLP Open Source Software (NLP-OSS) will be co-located 
+with EMNLP 2023 on 06 Dec 2023.
 
 Focusing more on the social and engineering aspect of NLP software 
 and less on scientific novelty or state-of-art models, the Workshop for NLP-OSS 
