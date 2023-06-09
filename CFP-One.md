@@ -15,7 +15,7 @@ Deadline for Long and Short Paper submission: 09 August, 2023
 
 You have tried to use the latest, bestest, fastest LLM models and bore grievances but found the solution after hours of coffee and computer staring. Share that at NLP-OSS and suggest how open source could change for the better (e.g. best practices, documentation, API design etc.)
 
-You came across an awesome SOTA system on NLP task X that no LLM has beaten its F1 score. But now the code is stale and it takes a dinosaur to understand the code. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems.
+You came across an awesome SOTA system on NLP task X and no LLM has beaten its F1 score. However, the code is now stale and it takes a dinosaur to understand the code. Share your experience at NLP-OSS and propose how to "replicate" these forgotten systems.
 
 You see this shiny GPT from a blog post, tried it to reproduce similar results on a different task and it just doesn't work on your dataset. You did some magic to the code and now it works. Show us how you did it! Though they're small tweaks, well-motivated and empirically tested are valid submissions to NLP-OSS.
 
