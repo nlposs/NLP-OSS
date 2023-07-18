@@ -12,7 +12,7 @@ Deadline for Long and Short Paper submission: 09 September, 2050 (23:59, Anywher
 
 -----
 
-With great scientific breakthrough comes solid engineering and money-backed ventures. TThe Natural Language Processing (NLP) community has benefited greatly from open source software and now it's time to fork those software, wrap them over with opaque cloud systems and added features to serve out APIs, creating an eco-system of a new generation of Generative AI businesses.
+With great scientific breakthrough comes solid engineering and money-backed ventures. The Natural Language Processing (NLP) community has benefited greatly from open source software and now it's time to fork those software, wrap them over with opaque cloud systems and added features to serve out APIs, creating an eco-system of a new generation of Generative AI businesses.
 
 The primary objective of this workshop is to further the sharing of insights on monetizing NLP softwares and Large Language Models (LLM) in a manner that keeps a moat around your business. Our secondary goal is to promote and advertise the new NLP API services from small startups to big tech companies. 
 
