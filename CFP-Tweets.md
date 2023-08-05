@@ -33,3 +33,20 @@ https://nlposs.github.io/2023/index.html#call-for-papers  09 Aug 2023
 #nlproc #nlposs
 
 -----
+
+
+You came across an awesome SOTA library on NLP task X that no LLM has beaten its F1 score. But now it takes a dinosaur to understand the stale code. Share your experience at NLP-OSS and propose how to "replicate" the library.
+
+https://nlposs.github.io/2023/index.html#call-for-papers  09 Aug 2023
+
+#nlproc #nlposs
+
+----
+
+Last day to submit to NLP Open Source Software workshop!! Have a blogpost or jupyter notebook to share in the last minute? Format it as an ACL paper like https://aclanthology.org/W18-2509/ =)
+
+https://nlposs.github.io/2023/index.html#call-for-papers  09 Aug 2023
+
+#nlproc #nlposs
+
+----
