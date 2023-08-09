@@ -20,3 +20,24 @@ Whenever I go to https://openreview.net/group/edit?id=EMNLP/2023/Workshop/NLP-OS
 
 
 Most probably the right way to do it is from https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#venue-configuration and then click on `Full Venue Configuration` then click on `Recruitment`, then the PC invitation form will appear for "New Recruitment"
+
+
+----
+
+Modify Review Form
+====
+
+This is supposedly the official docs https://docs.openreview.net/reference/default-forms/default-review-form
+
+To access the review, first, we start from 
+
+ - from https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#venue-configuration
+ - click on `Full Venue Configuration`, 
+ - then after it gets to the conference/workshop configuration page, click on `Review Stage`
+ - which will open up the "New Review Stage" page, on there,
+     - set the `Review Start Date` to the conference/workshop paper submission deadline
+     - set the `Review Deadline` for the official review deadline from the program committee
+     - set the `Review Expiration Date` (usually 1-2 days before the notification of the acceptance/rejection results)
+     - change the `Review Rating Field Name`
+     - change the `Review Confidence Field Name`
+     - edit the `Additional Review Form Options` with a JSON (which I still haven't figured out how...)
