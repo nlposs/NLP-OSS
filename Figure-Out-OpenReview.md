@@ -161,4 +161,17 @@ To access the review, first, we start from
 		"description": "How confident are you in your assessment of this paper?",
 		"order": 7
 	}
-}```
+}
+```
+
+
+----
+
+Assigning papers to Reviewers
+====
+
+From https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#venue-configuration, there's a "Reviewers Paper Assignment" link but whenever I clicked on it, it just throws the error:
+
+> Error 404
+> The server responded with the following message:
+> There is currently no assignment configuration ready for use. Please go to your venue request form and use the Paper Matching Setup to compute conflicts and/or affinity scores.
