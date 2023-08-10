@@ -40,7 +40,7 @@ To access the review, first, we start from
      - set the `Review Expiration Date` (usually 1-2 days before the notification of the acceptance/rejection results)
      - change the `Review Rating Field Name`
      - change the `Review Confidence Field Name`
-     - edit the `Additional Review Form Options` with a JSON, currently using:
+     - edit the `Additional Review Form Options` with a JSON, currently using the following JSON but it's just showing lots of error on open review...:
 
 ```
 {
