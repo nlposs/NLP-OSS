@@ -44,118 +44,121 @@ To access the review, first, we start from
 
 ```
 {
-    "review": {
-        "value": {
-            "param": {
-                "type": "string",
-                "minLength": 1,
-                "maxLength": 20000,
-                "input": "textarea",
-                "markdown": true
-            }
-        },
-        "order": 1,
-        "description": "What is this paper about and what contributions does it make? Please describe what problem or question this paper addresses, and the main contributions that it makes towards a solution or answer. The following kinds of contributions listed on our CFP are all welcomed https://nlposs.github.io/2023/index.html#call-for-papers"
-    },
-    "appropriateness": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "5: Certainly",
-                    "4: Probably",
-                    "3: Unsure",
-                    "2: Probably not",
-                    "1: Certainly not"
-                ],
-                "input": "radio"
-            },
-            "description": "Does this paper fit in the NLP-OSS workshop? Most papers should be in the 'certainly' 5 category. We accept various contributions ranging from empirical results, system demonstrations, case studies and theoretical / position discussions results are welcome."
-        },
-        "order": 2
-    },
-    "clarity": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "5: Very clear",
-                    "4: Understandable by most readers",
-                    "3: Mostly understandable to me with some effort",
-                    "2: Important questions were hard to resolve even with effort",
-                    "1: Much of the paper is confusing"
-                ],
-                "input": "radio"
-            },
-            "description": "Is the discussion/experiments/tool was clearly described in the paper? For the reasonably well-prepared reader, is it clear what was done and why? Is the paper well-written and well-structured?"
-        },
-        "order": 3
-    },
-    "soundness": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "5: Excellent: This study is one of the most thorough I have seen, given its type.",
-                    "4: Strong: This study provides sufficient support for all of its claims/arguments. ",
-                    "3: Good: This study provides sufficient support for its major claims/arguments, some minor points may need extra support or details.",
-                    "2: Borderline: Some of the main claims/arguments are not sufficiently supported, there are major technical/methodological problems",
-                    "1: Poor: This study is not yet sufficiently thorough to warrant publication or is not relevant to NLP-OSS."
-                ],
-                "input": "radio"
-            },
-            "description": "How sound and thorough is this study? First, is the technical approach sound and well-chosen? Second, can one trust the claims of the paper -- are they supported by proper experiments, proofs, or other argumentation?"
-        },
-        "order": 4
-    },
-    "recommendation": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "5: Exciting: I'd fight to get it accepted",
-                    "4: Worthy: I would like to see it accepted",
-                    "3: Borderline: I'm ambivalent about this one",
-                    "2: Mediocre: I'd rather not see it in the conference",
-                    "1: Poor: I'd fight to have it rejected"
-                ],
-                "input": "radio"
-            },
-            "description": "Should the paper be accepted or rejected? There are many good submissions competing for slots at this event; how important is it to feature this one? Will people learn a lot by reading this paper or seeing it presented? In deciding on your ultimate recommendation, please think over all your scores above. But remember that no paper is perfect, and remember that we want a conference full of interesting, diverse, and timely work. If a paper has some weaknesses, but you really got a lot out of it, feel free to fight for it. If a paper is solid but you could live without it, let us know that you're ambivalent. Remember also that the author has a couple of weeks to address reviewer comments before the camera-ready deadline. "
-        },
-        "order": 5
-    },
-    "open_source": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "Yes: Work done is open sourced or discussion describing open source related issues",
-                    "No: Work done is mainly describing unknown licensed tools / not free nor open software",
-                    "Unclear: Work done has not specified whether the tools demonstrated or described is open source"
-                ],
-                "input": "radio"
-            },
-            "description": "We want to make sure that NLP-OSS remains a venue to discuss open source tools and related issues. If the paper (i) has described experiments, features or issues that is explicitly non-open or not free source without any comparison to open source counter parts, or (ii) has described or demonstrated a tool with unclear licensing, please flag them out in your answer. We want to discourage (i) submissions and re-direct them to other appropriate venues and hopefully shepherd (ii) authors towards a clear licensing decision."
-        },
-        "order": 6
-    },
-    "confidence": {
-        "value": {
-            "param": {
-                "type": "string",
-                "enum": [
-                    "5: Positive that my evaluation is correct. I read the paper very carefully and I am very familiar with related work.",
-                    "4: Quite sure. I tried to check the important points carefully. It's unlikely, though conceivable, that I missed something that should affect my ratings.",
-                    "3: Pretty sure, but there's a chance I missed something. Although I have a good feel for this area in general, I did not carefully check the paper's details, e.g., the math, experimental design, or novelty.",
-                    "2: Willing to defend my evaluation, but it is fairly likely that I missed some details, didn't understand some central points, or can't be sure about the novelty of the work.",
-                    "1: Not my area, or paper was hard for me to understand. My evaluation is just an educated guess."
-                ],
-                "input": "radio"
-            },
-            "description": "How confident are you in your assessment of this paper?"
-        },
-        "order": 7
-    }
-}
-```
+	"review": {
+		"value": {
+			"param": {
+				"type": "string",
+				"minLength": 1,
+				"maxLength": 20000,
+				"input": "textarea",
+				"markdown": true
+			}
+		},
+		"order": 1,
+		"description": "What is this paper about and what contributions does it make? Please describe what problem or question this paper addresses, and the main contributions that it makes towards a solution or answer. The following kinds of contributions listed on our CFP are all welcomed https://nlposs.github.io/2023/index.html#call-for-papers"
+	},
+	"appropriateness": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"5: Certainly",
+					"4: Probably",
+					"3: Unsure",
+					"2: Probably not",
+					"1: Certainly not"
+				],
+				"input": "radio"
+			}
+		},
+		"description": "Does this paper fit in the NLP-OSS workshop? Most papers should be in the 'certainly' 5 category. We accept various contributions ranging from empirical results, system demonstrations, case studies and theoretical / position discussions results are welcome.",
+		"order": 2
+	},
+	"clarity": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"5: Very clear",
+					"4: Understandable by most readers",
+					"3: Mostly understandable to me with some effort",
+					"2: Important questions were hard to resolve even with effort",
+					"1: Much of the paper is confusing"
+				],
+				"input": "radio"
+			}
+
+		},
+		"description": "Is the discussion/experiments/tool was clearly described in the paper? For the reasonably well-prepared reader, is it clear what was done and why? Is the paper well-written and well-structured?",
+		"order": 3
+	},
+	"soundness": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"5: Excellent: This study is one of the most thorough I have seen, given its type.",
+					"4: Strong: This study provides sufficient support for all of its claims/arguments. ",
+					"3: Good: This study provides sufficient support for its major claims/arguments, some minor points may need extra support or details.",
+					"2: Borderline: Some of the main claims/arguments are not sufficiently supported, there are major technical/methodological problems",
+					"1: Poor: This study is not yet sufficiently thorough to warrant publication or is not relevant to NLP-OSS."
+				],
+				"input": "radio"
+			}
+
+		},
+		"description": "How sound and thorough is this study? First, is the technical approach sound and well-chosen? Second, can one trust the claims of the paper -- are they supported by proper experiments, proofs, or other argumentation?",
+		"order": 4
+	},
+	"recommendation": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"5: Exciting: I'd fight to get it accepted",
+					"4: Worthy: I would like to see it accepted",
+					"3: Borderline: I'm ambivalent about this one",
+					"2: Mediocre: I'd rather not see it in the conference",
+					"1: Poor: I'd fight to have it rejected"
+				],
+				"input": "radio"
+			}
+		},
+		"description": "Should the paper be accepted or rejected? There are many good submissions competing for slots at this event; how important is it to feature this one? Will people learn a lot by reading this paper or seeing it presented? In deciding on your ultimate recommendation, please think over all your scores above. But remember that no paper is perfect, and remember that we want a conference full of interesting, diverse, and timely work. If a paper has some weaknesses, but you really got a lot out of it, feel free to fight for it. If a paper is solid but you could live without it, let us know that you're ambivalent. Remember also that the author has a couple of weeks to address reviewer comments before the camera-ready deadline. ",
+		"order": 5
+	},
+	"open_source": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"Yes: Work done is open sourced or discussion describing open source related issues",
+					"No: Work done is mainly describing unknown licensed tools / not free nor open software",
+					"Unclear: Work done has not specified whether the tools demonstrated or described is open source"
+				],
+				"input": "radio"
+			}
+
+		},
+		"description": "We want to make sure that NLP-OSS remains a venue to discuss open source tools and related issues. If the paper (i) has described experiments, features or issues that is explicitly non-open or not free source without any comparison to open source counter parts, or (ii) has described or demonstrated a tool with unclear licensing, please flag them out in your answer. We want to discourage (i) submissions and re-direct them to other appropriate venues and hopefully shepherd (ii) authors towards a clear licensing decision.",
+		"order": 6
+	},
+	"confidence": {
+		"value": {
+			"param": {
+				"type": "string",
+				"enum": [
+					"5: Positive that my evaluation is correct. I read the paper very carefully and I am very familiar with related work.",
+					"4: Quite sure. I tried to check the important points carefully. It's unlikely, though conceivable, that I missed something that should affect my ratings.",
+					"3: Pretty sure, but there's a chance I missed something. Although I have a good feel for this area in general, I did not carefully check the paper's details, e.g., the math, experimental design, or novelty.",
+					"2: Willing to defend my evaluation, but it is fairly likely that I missed some details, didn't understand some central points, or can't be sure about the novelty of the work.",
+					"1: Not my area, or paper was hard for me to understand. My evaluation is just an educated guess."
+				],
+				"input": "radio"
+			}
+
+		},
+		"description": "How confident are you in your assessment of this paper?",
+		"order": 7
+	}
+}```
