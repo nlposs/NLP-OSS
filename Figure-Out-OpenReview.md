@@ -175,3 +175,14 @@ From https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#
 > Error 404
 > The server responded with the following message:
 > There is currently no assignment configuration ready for use. Please go to your venue request form and use the Paper Matching Setup to compute conflicts and/or affinity scores.
+
+After some figuring out, the paper matching setup failed the first time but the second time the button never re-appeared. 
+
+And the reviews won't start on the system until the submission deadline closes. A work-around it is after the official deadline, change the time of the end of submission to yesterday. Then click on the review assignment on 
+
+ - https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#venue-configuration
+ - then click on "Reviewers Paper Assignment"
+ - then the assignment system appears,
+ - then go back to https://openreview.net/group?id=EMNLP/2023/Workshop/NLP-OSS/Program_Chairs#venue-configuration
+ - click on "full venue configuration", then in the configuration page, click on "Revision"
+ - change the time back to extended deadline
