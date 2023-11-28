@@ -1,0 +1,97 @@
+- title: Opening Remarks
+  start_time: 2023-12-06 09:00:00
+  end_time: 2022-05-26 09:15:00
+
+- title: "Invited Talk 1"
+  start_time: 2023-12-06 09:15:00
+  end_time: 2022-05-26 10:15:00
+  location: Hybrid
+  papers:
+    - id: 99
+      start_time: 2022-05-26 09:15:00
+      end_time: 2022-05-26 10:15:00
+
+- title: Coffee Break
+  start_time: 2022-05-26 10:30:00
+  end_time: 2022-05-26 11:00:00
+
+- title: "Lightning Session 1"
+  start_time: 2022-05-26 11:00:00
+  end_time: 2022-05-26 11:30:00
+  location: Hybrid
+
+- title: "Poster Session 1"
+  start_time: 2022-05-26 11:30:00
+  end_time: 2022-05-26 12:15:00
+  location: Hybrid
+  papers:
+      - id: 5
+      - id: 6
+      - id: 8
+      - id: 10
+      - id: 12
+      - id: 13
+      - id: 16
+      - id: 17
+      - id: 18
+      - id: 19
+      - id: 20
+      - id: 21
+      - id: 22
+      start_time: 2022-05-26 11:30:00
+      end_time: 2022-05-26 12:15:00
+
+- title: Lunch Break
+  start_time: 2022-05-26 12:15:00
+  end_time: 2022-05-26 13:45:00
+
+- title: "Invited Talk 2"
+  start_time: 2022-05-26 13:45:00
+  end_time: 2022-05-26 14:45:00
+  location: Hybrid
+  papers:
+    - id: 97
+      start_time: 2022-05-26 13:45:00
+      end_time: 2022-05-26 14:45:00
+
+- title: "Lightning Session 2"
+  start_time: 2022-05-26 14:45:00
+  end_time: 2022-05-26 15:15:00
+  location: Hybrid
+
+- title: Coffee Break
+  start_time: 2022-05-26 15:15:00
+  end_time: 2022-05-26 15:30:00
+
+- title: "Poster Session 2"
+  start_time: 2022-05-26 15:30:00
+  end_time: 2022-05-26 16:15:00
+  location: Hybrid
+  papers:
+      - id: 11
+      - id: 23
+      - id: 24
+      - id: 25
+      - id: 26
+      - id: 27
+      - id: 28
+      - id: 29
+      - id: 30
+      - id: 33
+      - id: 94
+      start_time: 2022-05-26 15:30:00
+      end_time: 2022-05-26 16:15:00
+
+
+- title: "Invited Talk 3"
+  start_time: 2022-05-26 16:15:00
+  end_time: 2022-05-26 17:15:00
+  location: Hybrid
+  papers:
+    - id: 95
+      start_time: 2022-05-26 16:15:00
+      end_time: 2022-05-26 17:15:00
+      
+- title: Closing Remarks
+  start_time: 2023-12-06 17:15:00
+  end_time: 2022-05-26 17:30:00

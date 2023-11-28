@@ -1,0 +1,621 @@
+- id: 4
+  authors: 
+           - first_name: Lester James V.
+             last_name: Miranda
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: calamanCy: A Tagalog Natural Language Processing Toolkit
+  abstract: Abstract. (not necessary)
+
+- id: 5
+  authors: 
+           - first_name: Michael
+             last_name: Günther
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Louis
+             last_name: Milliken
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Jonathan
+             last_name: Geuter
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Georgios
+             last_name: Mastrapas
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Bo
+             last_name: Wang
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Han
+             last_name: Xiao
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Jina Embeddings: A Novel Set of High-Performance Sentence Embedding Models
+  abstract: Abstract. (not necessary)
+
+- id: 6
+  authors: 
+           - first_name: David
+             last_name: Beauchemin
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Marouane
+             last_name: Yassine
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Deepparse : A State-Of-The-Art Library for Parsing Multinational Street Addresses
+  abstract: Abstract. (not necessary)
+
+- id: 8
+  authors: 
+           - first_name: Wannaphong
+             last_name: Phatthiyaphaibun
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Korakot
+             last_name: Chaovavanich
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Charin
+             last_name: Polpanumas
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Arthit
+             last_name: Suriyawongkul
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Lalita
+             last_name: Lowphansirikul
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Pattarawat
+             last_name: Chormai
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Peerat
+             last_name: Limkonchotiwat
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Thanathip
+             last_name: Suntorntip
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Can
+             last_name: Udomcharoenchaikit
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: PyThaiNLP: Thai Natural Language Processing in Python
+  abstract: Abstract. (not necessary)
+
+- id: 9
+  authors: 
+           - first_name: Petros
+             last_name: Stavropoulos
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Ioannis
+             last_name: Lyris
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Natalia
+             last_name: Manola
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Ioanna
+             last_name: Grypari
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Haris
+             last_name: Papageorgiou
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Empowering Knowledge Discovery from Scientific Literature: A novel approach to Research Artifact Analysis
+  abstract: Abstract. (not necessary)
+
+- id: 10
+  authors: 
+           - first_name: Loïc
+             last_name: Grobol
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Zelda Rose: a tool for hassle-free training of transformer models
+  abstract: Abstract. (not necessary)
+
+- id: 11
+  authors: 
+           - first_name: Yuvanesh
+             last_name: Anand
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Zach
+             last_name: Nussbaum
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Adam
+             last_name: Treat
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Aaron
+             last_name: Miller
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Richard
+             last_name: Guo
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Benjamin M
+             last_name: Schmidt
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Brandon
+             last_name: Duderstadt
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Andriy
+             last_name: Mulyar
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: GPT4All: An Ecosystem of Open Source Compressed Language Models
+  abstract: Abstract. (not necessary)
+
+- id: 12
+  authors: 
+           - first_name: Andrew
+             last_name: Zhu
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Liam
+             last_name: Dugan
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Alyssa
+             last_name: Hwang
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Chris
+             last_name: Callison-Burch
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Kani: A Lightweight and Highly Hackable Framework for Language Model Applications
+  abstract: Abstract. (not necessary)
+
+- id: 13
+  authors: 
+           - first_name: Sanjna
+             last_name: Kashyap
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Zhaoyang
+             last_name: Xie
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Kenneth
+             last_name: Steimel
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Nitin
+             last_name: Madnani
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Beyond the Repo: A Case Study on Open Source Integration with GECToR
+  abstract: Abstract. (not necessary)
+
+- id: 16
+  authors: 
+           - first_name: Lefteris
+             last_name: Loukas
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Manos
+             last_name: Fergadiotis
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Prodromos
+             last_name: Malakasiotis
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: EDGAR-CRAWLER: Finding Needles in the Haystack of Financial Documents
+  abstract: Abstract. (not necessary)
+
+- id: 17
+  authors: 
+           - first_name: Marcel
+             last_name: Bollmann
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Nathan
+             last_name: Schneider
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Arne
+             last_name: Köhn
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Matt
+             last_name: Post
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Two Decades of the ACL Anthology: Development, Impact, and Open Challenges
+  abstract: Abstract. (not necessary)
+
+- id: 18
+  authors: 
+           - first_name: Piotr
+             last_name: Nawrot
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: nanoT5: Fast & Simple Pre-training and Fine-tuning of T5 Models with Limited Resources
+  abstract: Abstract. (not necessary)
+
+- id: 19
+  authors: 
+           - first_name: Salvatore
+             last_name: Giorgi
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Garrick
+             last_name: Sherman
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Douglas
+             last_name: Bellew
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Sharath Chandra
+             last_name: Guntuku
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Lyle
+             last_name: Ungar
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Brenda
+             last_name: Curtis
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: AWARE-TEXT: An Android Package for Mobile Phone Based Text Collection and On-Device Processing
+  abstract: Abstract. (not necessary)
+
+- id: 20
+  authors: 
+           - first_name: Matt
+             last_name: Post
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Thamme
+             last_name: Gowda
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Roman
+             last_name: Grundkiewicz
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Huda
+             last_name: Khayrallah
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Rohit
+             last_name: Jain
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Marcin
+             last_name: Junczys-Dowmunt
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: SOTASTREAM: A Streaming Approach to Machine Translation Training
+  abstract: Abstract. (not necessary)
+
+- id: 21
+  authors: 
+           - first_name: Siddharth
+             last_name: Singh
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Shyam
+             last_name: Ratan
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Neerav
+             last_name: Mathur
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Ritesh
+             last_name: Kumar
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: An Open-source Web-based Application for Development of Resources and Technologies in Underresourced Languages
+  abstract: Abstract. (not necessary)
+
+- id: 22
+  authors: 
+           - first_name: Andrej
+             last_name: Jovanovic
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Björn
+             last_name: Ross
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Rumour Detection in the Wild: A Browser Extension for Twitter
+  abstract: Abstract. (not necessary)
+
+- id: 23
+  authors: 
+           - first_name: Changxu
+             last_name: Duan
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Sabine
+             last_name: Bartsch
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: LaTeX Rainbow: Open Source Document Layout Semantic Annotation Framework from LaTeX to PDF
+  abstract: Abstract. (not necessary)
+
+- id: 24
+  authors: 
+           - first_name: Paul
+             last_name: Landes
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Barbara Di
+             last_name: Eugenio
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Cornelia
+             last_name: Caragea
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: DeepZensols: A Deep Learning Natural Language Processing Framework for Experimentation and Reproducibility
+  abstract: Abstract. (not necessary)
+
+- id: 25
+  authors: 
+           - first_name: Constantine
+             last_name: Lignos
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Maya
+             last_name: Kruse
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Andrew
+             last_name: Rueda
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Improving NER Research Workflows with SeqScore
+  abstract: Abstract. (not necessary)
+
+- id: 26
+  authors: 
+           - first_name: Yoshitomo
+             last_name: Matsubara
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: torchdistill Meets Hugging Face Libraries for Reproducible, Coding-free Deep Learning Studies: A Case Study on NLP
+  abstract: Abstract. (not necessary)
+
+- id: 27
+  authors: 
+           - first_name: Vivek
+             last_name: Miglani
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Aobo
+             last_name: Yang
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Aram H.
+             last_name: Markosyan
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Diego
+             last_name: Garcia-Olano
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Narine
+             last_name: Kokhlikyan
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Using Captum to Explain Generative Language Models
+  abstract: Abstract. (not necessary)
+
+- id: 28
+  authors: 
+           - first_name: Felix
+             last_name: Stollenwerk
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: nerblackbox: A High-level Library for Named Entity Recognition in Python
+  abstract: Abstract. (not necessary)
+
+- id: 29
+  authors: 
+           - first_name: Chris
+             last_name: Hokamp
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Demian Gholipour
+             last_name: Ghalandari
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Parsa
+             last_name: Ghaffari
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: News Signals: An NLP Library for Text and Time Series
+  abstract: Abstract. (not necessary)
+
+- id: 30
+  authors: 
+           - first_name: Shubhanshu
+             last_name: Mishra
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Jana
+             last_name: Diesner
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: PyTAIL: An Open Source Tool for Interactive and Incremental Learning of NLP Models with Human in the Loop for Online Data
+  abstract: Abstract. (not necessary)
+
+- id: 32
+  authors: 
+           - first_name: Hrishikesh
+             last_name: Terdalkar
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Arnab
+             last_name: Bhattacharya
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Antarlekhaka: A Comprehensive Tool for Multi-task Natural Language Annotation
+  abstract: Abstract. (not necessary)
+
+- id: 33
+  authors: 
+           - first_name: Bang
+             last_name: Fu
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Di
+             last_name: Feng
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: GPTCache: An Open-Source Semantic Cache for LLM Applications Enabling Faster Answers and Cost Savings
+  abstract: Abstract. (not necessary)
+
+- id: 94
+  authors: 
+           - first_name: Dung Nguyen
+             last_name: Manh
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Nam Le
+             last_name: Hai
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Anh T. V.
+             last_name: Dau
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Anh Minh
+             last_name: Nguyen
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Khanh
+             last_name: Nghiem
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Jin
+             last_name: Guo
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Nghi D. Q.
+             last_name: Bui
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation
+  abstract: Abstract. (not necessary)
+
+- id: 99
+  authors: 
+           - first_name: William
+             last_name: Tjhi
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: David
+             last_name: Ong
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Peerat
+             last_name: Limkonchotiwat
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: SEA-LION (Southeast Asian Languages In One Network): A Family of Southeast Asian Language Models
+  abstract: Abstract. (not necessary)
+
+- id: 97
+  authors: 
+           - first_name: Louis
+             last_name: Castricato
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: trlX: A Framework for Large Scale Open Source RLHF
+  abstract: Abstract. (not necessary)
+
+- id: 95
+  authors: 
+           - first_name: Brandon
+             last_name: Duderstadt
+             institution: Online University (can leave it as it will not shown)
+        
+           - first_name: Yuvanesh
+             last_name: Anand
+             institution: Online University (can leave it as it will not shown)
+  attributes: 
+     paper_type: long (can leave it unchanged)
+     presentation_type: poster (can leave it unchanged)
+  title: Towards Explainable and Accessible AI
+  abstract: Abstract. (not necessary)
